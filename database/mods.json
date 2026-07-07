@@ -1,0 +1,22 @@
+{
+  "mods": [
+    {
+      "id": "f4se",
+      "name": "Fallout 4 Script Extender (F4SE)",
+      "category": "core",
+      "source": "https://f4se.silverlock.org/",
+      "version": "0.6.23",
+      "requiredBy": [],
+      "notes": "Mandatory: Used for nearly all F4SE plugins"
+    },
+    {
+      "id": "buffout4",
+      "name": "Buffout 4",
+      "category": "core",
+      "source": "https://www.nexusmods.com/fallout4/mods/47359",
+      "version": "1.34.0",
+      "requiredBy": ["f4se", "address-library"],
+      "notes": "Crash-/Memory-/Engine-Fixes, Basis for S"
+    }
+  ]
+}
