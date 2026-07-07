@@ -7,7 +7,7 @@
       "source": "https://f4se.silverlock.org/",
       "version": "0.6.23",
       "requiredBy": [],
-      "notes": "Mandatory: Used for nearly all F4SE plugins"
+      "notes": "Mandatory: Used for nearly all F4SE plugins, Recommended for all users"
     },
     {
       "id": "buffout4",
@@ -16,7 +16,7 @@
       "source": "https://www.nexusmods.com/fallout4/mods/47359",
       "version": "1.34.0",
       "requiredBy": ["f4se", "address-library"],
-      "notes": "Crash-/Memory-/Engine-Fixes, Basis for S"
+      "notes": "Crash-/Memory-/Engine-Fixes, Basis for Stability, Recommended for all users"
     }
   ]
 }
