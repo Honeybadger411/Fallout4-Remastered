@@ -59,6 +59,46 @@
       "version": "1.4.1",
       "requires": ["f4se"],
       "notes": "Warns about save file corruption before it becomes a problem"
+    },
+    {
+      "id": "unofficial-fallout4-patch",
+      "name": "Unofficial Fallout 4 Patch",
+      "category": "bugfix",
+      "subcategory": "vanilla-fixes",
+      "source": "https://www.nexusmods.com/fallout4/mods/4598",
+      "version": "2.1.4",
+      "requires": [],
+      "notes": "Community-maintained collection of fixes for vanilla bugs missed by official patches"
+    },
+    {
+      "id": "community-fixes-merged",
+      "name": "Community Fixes Merged",
+      "category": "bugfix",
+      "subcategory": "vanilla-fixes",
+      "source": "https://www.nexusmods.com/fallout4/mods/58020",
+      "version": "1.0",
+      "requires": [],
+      "notes": "Merged collection of individual community bugfix mods not covered by UFO4P"
+    },
+    {
+      "id": "previsibines-repair-pack",
+      "name": "Previsibines Repair Pack (PRP)",
+      "category": "bugfix",
+      "subcategory": "performance",
+      "source": "https://www.nexusmods.com/fallout4/mods/46403",
+      "version": "1.5",
+      "requires": [],
+      "notes": "Repairs broken precombines/previsibines, major performance improvement especially in Boston"
+    },
+    {
+      "id": "extended-dialogue-interface",
+      "name": "Extended Dialogue Interface (XDI)",
+      "category": "gameplay",
+      "subcategory": "framework",
+      "source": "https://www.nexusmods.com/fallout4/mods/48986",
+      "version": "2.0.4",
+      "requires": ["f4se"],
+      "notes": "Extends dialogue menu functionality, required by several UI mods including FallUI"
     }
   ]
 }
