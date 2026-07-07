@@ -7,7 +7,7 @@
       "subcategory": "framework",
       "source": "https://f4se.silverlock.org/",
       "version": "0.6.23",
-      "requiredBy": [],
+      "requires": [],
       "notes": "Mandatory: Used for nearly all F4SE plugins, Recommended for all users"
     },
     {
@@ -17,7 +17,7 @@
       "subcategory": "stability",
       "source": "https://www.nexusmods.com/fallout4/mods/47359",
       "version": "1.34.0",
-      "requiredBy": ["f4se", "address-library"],
+      "requires": ["f4se", "address-library"],
       "notes": "Crash-/Memory-/Engine-Fixes, Basis for Stability, Recommended for all users"
     },
     {
@@ -27,7 +27,7 @@
       "subcategory": "framework",
       "source": "https://www.nexusmods.com/fallout4/mods/47327",
       "version": "1.10.163.0",
-      "requiredBy": ["f4se"],
+      "requires": ["f4se"],
       "notes": "Mandatory: Required by most F4SE plugins to locate game functions/addresses"
     },
     {
@@ -37,7 +37,7 @@
       "subcategory": "stability",
       "source": "https://www.nexusmods.com/fallout4/mods/44798",
       "version": "1.14",
-      "requiredBy": ["f4se", "address-library"],
+      "requires": ["f4se", "address-library"],
       "notes": "Prevents physics bugs at framerates above 60 FPS"
     },
     {
@@ -47,7 +47,7 @@
       "subcategory": "stability",
       "source": "https://www.nexusmods.com/fallout4/mods/26722",
       "version": "2.1",
-      "requiredBy": ["f4se"],
+      "requires": ["f4se"],
       "notes": "Increases available memory heap, reduces crashes in large sessions"
     },
     {
@@ -57,7 +57,7 @@
       "subcategory": "stability",
       "source": "https://www.nexusmods.com/fallout4/mods/44577",
       "version": "1.4.1",
-      "requiredBy": ["f4se"],
+      "requires": ["f4se"],
       "notes": "Warns about save file corruption before it becomes a problem"
     }
   ]
