@@ -1,0 +1,17 @@
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor/IDE-specific
+.vscode/*
+!.vscode/settings.json
+*.code-workspace
+
+# Logs & temp files
+*.log
+*.tmp
+
+# Local override configs (falls du später z.B. lokale Pfade speicherst,
+# die nicht ins Repo sollen, weil sie maschinenspezifisch sind)
+config/local.*
