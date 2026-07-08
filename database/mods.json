@@ -819,6 +819,26 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "11 atmospheric unmarked interiors across the Commonwealth. Tagged Lore-Friendly and Fair-and-balanced, loot intentionally kept at or below vanilla levels. Confirmed compatible with Beantown Interiors Project"
+    },
+    {
+      "id": "backported-archive2-support-system",
+      "name": "Backported Archive2 Support System (BASS)",
+      "category": "core",
+      "subcategory": "compatibility",
+      "source": "https://www.nexusmods.com/fallout4/mods/81859",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Backports the newer BA2 archive loading code from game version 1.10.980 to 1.10.163, allowing the downgraded game to load mods packaged in the newer archive format without crashing. Do not install on game version 1.10.980 or later"
+    },
+    {
+      "id": "mutant-menagerie-life-finds-a-way",
+      "name": "Mutant Menagerie - Life Finds A Way",
+      "category": "creature",
+      "subcategory": "overhaul",
+      "source": "https://www.nexusmods.com/fallout4/mods/68187",
+      "version": "check-on-nexus",
+      "requires": ["backported-archive2-support-system"],
+      "notes": "Full creature and ecosystem overhaul: 60+ new mutants, new flora, fishing, crafting recipes. Final version, replaces all previous Mutant Menagerie releases (Big Game Hunting, Horrors of the Deep Fog, Nuclear Safari are retired). Requires BASS on our downgraded 1.10.163 setup"
     }
   ]
 }
