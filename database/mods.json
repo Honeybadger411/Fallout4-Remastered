@@ -879,6 +879,48 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "Comprehensive overhaul of Gunners, Raiders, Super Mutants and Children of Atom with new variants and gear. Actively maintained (last updated July 2026), lore-friendly. Marked 'Broken in Next-Gen Update' which is irrelevant for our 1.10.163 setup"
+    },
+    {
+      "id": "heather-casdin",
+      "name": "Heather Casdin - A Unique Companion Experience",
+      "category": "companion",
+      "subcategory": "custom-companion",
+      "source": "https://www.nexusmods.com/fallout4/mods/23273",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Fully voiced custom companion with 2400+ lines, own questline across Far Harbor and Nuka-World. Version 2 requires no XDI/FDI patch"
+    },
+    {
+      "id": "ellen-the-cartographer",
+      "name": "Ellen - the cartographer",
+      "category": "companion",
+      "subcategory": "custom-companion",
+      "source": "https://www.nexusmods.com/fallout4/mods/15962",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Fully voiced custom companion with 1200+ lines, affinity system, lore-friendly New Vegas backstory"
+    },
+    {
+      "id": "amazing-follower-tweaks-plus",
+      "name": "Amazing FollowerTweaks Plus (AFT Plus)",
+      "category": "companion",
+      "subcategory": "framework",
+      "status": "alternative",
+      "alternativeTo": ["simple-everyones-best-friend"],
+      "source": "https://www.nexusmods.com/fallout4/mods/59699",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Modern, actively maintained multi-companion framework with SS2 support. Alternative to Simple Everyone's Best Friend for players wanting more than Dogmeat+1. Mutually exclusive, do not run both"
+    },
+    {
+      "id": "improved-minutemen",
+      "name": "Improved Minutemen",
+      "category": "npc-factions",
+      "subcategory": "friendly-overhaul",
+      "source": "https://www.nexusmods.com/fallout4/mods/76755",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Lore-friendly overhaul making the Minutemen resemble a proper Continental Army, on par with other major factions. Part of the same 'Improved Faction' mod series as Improved Hostile Factions, designed for compatibility"
     }
   ]
 }
