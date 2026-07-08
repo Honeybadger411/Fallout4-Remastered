@@ -629,6 +629,96 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "Quest/companion mod by the Outcasts and Remnants/Project Valkyrie author, focused on morally darker player choices and an antagonist-leaning faction. Tonally different from the rest of this list"
+    },
+    {
+      "id": "immersive-animation-framework",
+      "name": "Immersive Animation Framework",
+      "category": "animation",
+      "subcategory": "player",
+      "source": "https://www.nexusmods.com/fallout4/mods/50555",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Full set of immersive ingestible/interaction animations"
+    },
+    {
+      "id": "tactical-reload",
+      "name": "Tactical Reload",
+      "category": "animation",
+      "subcategory": "weapons",
+      "source": "https://www.nexusmods.com/fallout4/mods/49444",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Framework for tactical/partial reload animations on vanilla and modded weapons"
+    },
+    {
+      "id": "bullet-counted-reload-system",
+      "name": "Bullet Counted Reload System (BCR)",
+      "category": "animation",
+      "subcategory": "weapons",
+      "source": "https://www.nexusmods.com/fallout4/mods/41178",
+      "version": "check-on-nexus",
+      "requires": ["f4se", "tactical-reload"],
+      "notes": "F4SE plugin enabling reloads based on actual rounds fired instead of always topping off to full magazine. No ESP, no load order slot used"
+    },
+    {
+      "id": "reverb-and-ambiance-overhaul",
+      "name": "Reverb and Ambiance Overhaul",
+      "category": "audio",
+      "subcategory": "ambience",
+      "source": "https://www.nexusmods.com/fallout4/mods/10189",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Improves weapon sounds, ambience and reverb realism, fixes several vanilla audio bugs"
+    },
+    {
+      "id": "commonwealth-warfare-explosions",
+      "name": "Commonwealth Warfare - Explosions",
+      "category": "audio",
+      "subcategory": "weapons",
+      "source": "https://www.nexusmods.com/fallout4/mods/16609",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Replaces explosion sounds with crisper, more realistic versions including ear-ringing effect. Confirmed compatible with Reverb and Ambiance Overhaul"
+    },
+    {
+      "id": "arbitration",
+      "name": "Arbitration - Combat AI - Stealth - Speed - Damage - Gameplay Overhaul and Tweaks",
+      "category": "gameplay",
+      "subcategory": "combat-ai",
+      "source": "https://www.nexusmods.com/fallout4/mods/2037",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Modular gameplay-setting tweaks: stealth detection, grenade behavior, fall damage, movement speed, survival damage. All features individually toggleable"
+    },
+    {
+      "id": "better-locational-damage",
+      "name": "Better Locational Damage",
+      "category": "gameplay",
+      "subcategory": "combat-ai",
+      "source": "https://www.nexusmods.com/fallout4/mods/3815",
+      "version": "check-on-nexus",
+      "requires": ["f4se"],
+      "notes": "Scripted headshots, dismemberment, bleeding, stagger and backstab damage. Actively maintained with MCM support"
+    },
+    {
+      "id": "better-locational-damage-robco-patch",
+      "name": "Better Locational Damage - RobCo Patch",
+      "category": "gameplay",
+      "subcategory": "combat-ai",
+      "source": "https://www.nexusmods.com/fallout4/mods/69804",
+      "version": "check-on-nexus",
+      "requires": ["better-locational-damage"],
+      "notes": "Automatically patches ammo, NPCs, races and weapons from other installed mods against Better Locational Damage via RobCo Patcher"
+    },
+    {
+      "id": "combat-ai-empowered",
+      "name": "Combat AI Empowered",
+      "category": "gameplay",
+      "subcategory": "combat-ai",
+      "source": "https://www.nexusmods.com/fallout4/mods/72678",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Modifies enemy combat styles based on faction/weapon type (flanking, cover-seeking, ranged vs melee behavior). Complements Arbitration rather than replacing it"
     }
   ]
 }
