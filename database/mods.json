@@ -869,6 +869,16 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "Retextures Assaultrons, Protectrons, Sentrybots, Mr. Handy/Nanny/Gutsy, Eyebots, Robobrain, Swarmbots, Gen 1 Synths, and synth/robot armor. Requires Automatron and Nuka-World"
+    },
+    {
+      "id": "improved-hostile-factions",
+      "name": "Improved Hostile Factions",
+      "category": "npc-factions",
+      "subcategory": "enemy-overhaul",
+      "source": "https://www.nexusmods.com/fallout4/mods/77916",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Comprehensive overhaul of Gunners, Raiders, Super Mutants and Children of Atom with new variants and gear. Actively maintained (last updated July 2026), lore-friendly. Marked 'Broken in Next-Gen Update' which is irrelevant for our 1.10.163 setup"
     }
   ]
 }
