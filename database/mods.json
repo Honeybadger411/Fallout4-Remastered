@@ -1221,6 +1221,126 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "Comprehensive outfit pack (B-90, Rebel, SNCR, Gunner overhaul, Wastelander outfits) designed to visually blend seamlessly with vanilla assets"
+    },
+   {
+      "id": "hudframework",
+      "name": "HUDFramework",
+      "category": "quest",
+      "subcategory": "framework",
+      "source": "https://www.nexusmods.com/fallout4/mods/20309",
+      "version": "check-on-nexus",
+      "requires": ["f4se"],
+      "notes": "Framework for custom HUD elements by kinggath, used by Sim Settlements 2 and other mods. FallUI - HUD explicitly supports and auto-patches for HUDFramework, no conflict"
+    },
+    {
+      "id": "rise-of-the-commonwealth-ss2",
+      "name": "Rise of the Commonwealth for Sim Settlements 2",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/50684",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "36 upgradeable City Plans covering every vanilla and DLC settlement, ported forward from the original Sim Settlements Rise of the Commonwealth by the SS2 team"
+    },
+    {
+      "id": "blad3k1ll3rs-ss2-mega-expansion-pack",
+      "name": "Blad3K1ll3r's SS2 Mega Expansion Pack",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/79528",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Growing add-on pack of building plans covering various SS2 plot types and sub-types"
+    },
+    {
+      "id": "city-plan-contest-megapack",
+      "name": "City Plan Contest Megapack for Sim Settlements 2",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/67670",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Over 160 City Plans from the full history of the City Plan Contest, including plans ported from the original Sim Settlements. All ESL-flagged"
+    },
+    {
+      "id": "plotapalooza-building-plan-pack",
+      "name": "Sim Settlements 2 - Plotapalooza Building Plan Pack",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/91153",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Official all-in-one pack bundling numerous individual Plotapalooza contest entries (Contests 1 and 2) from many community authors"
+    },
+    {
+      "id": "bad-neighbors-ss2-addon",
+      "name": "Bad Neighbors - Sim Settlements 2 Addon Pack",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/79710",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Community addon pack by MrJoseCuervo & Tinuvia"
+    },
+    {
+      "id": "bubbles-apothecary",
+      "name": "Bubble's Apothecary - SS2 Plotapalooza 4 entry",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/96323",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Plotapalooza 4 contest entry by COEH77"
+    },
+    {
+      "id": "dr-fitzs-traveling-show",
+      "name": "Dr. Fitz's Traveling Show - An SS2 Plotapalooza 4 Entry",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/96319",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Plotapalooza 4 contest entry by SonicPhil"
+    },
+    {
+      "id": "favelabulous",
+      "name": "Favelabulous",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/50432",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "SS2 building plan addon by kopfjagger"
+    },
+    {
+      "id": "gavmans-buildings",
+      "name": "GavMan's Buildings - SS2 Add-on",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/79539",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "SS2 building plan addon by GavMan, includes a Recruitment Center plan for Chapter 3 Outposts"
+    },
+    {
+      "id": "gavmans-church",
+      "name": "GavMan's Church SS2 Plotapalooza AddOn",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/88573",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Plotapalooza contest entry by GavMan"
+    },
+    {
+      "id": "so-i-made-plans-addon-pack",
+      "name": "Sim Settlements 2 - So I Made Plans Addon Pack",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/50552",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Adds building plans like artillery and small homes by Mikimikinyan"
     }
   ]
 }
