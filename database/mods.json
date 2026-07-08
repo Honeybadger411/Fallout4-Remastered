@@ -339,6 +339,46 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "Enhanced Super Mutant armor/gear textures. Details unverified beyond mod name/ID, check page directly."
+    },
+    {
+      "id": "boston-natural-surroundings",
+      "name": "Boston Natural Surroundings",
+      "category": "graphics",
+      "subcategory": "vegetation",
+      "source": "https://www.nexusmods.com/fallout4/mods/30673",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Adds dense forest vegetation across the Commonwealth. Designed to preserve precombines when enabled correctly per mod page instructions."
+    },
+    {
+      "id": "elfx",
+      "name": "Enhanced Lights and FX (ELFX)",
+      "category": "graphics",
+      "subcategory": "lighting",
+      "source": "https://www.nexusmods.com/fallout4/mods/13596",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Atmospheric interior lighting overhaul"
+    },
+    {
+      "id": "elfx-prp-patch",
+      "name": "ELFX - PreVis PreCombine Patch",
+      "category": "graphics",
+      "subcategory": "lighting",
+      "source": "https://www.nexusmods.com/fallout4/mods/64990",
+      "version": "check-on-nexus",
+      "requires": ["elfx", "previsibines-repair-pack"],
+      "notes": "Regenerates precombines for ELFX, includes PRP-compatible fixes. Important for compatibility with our PRP setup."
+    },
+    {
+      "id": "interiors-enhanced",
+      "name": "Interiors Enhanced - Darker Ambient Light and Fog",
+      "category": "graphics",
+      "subcategory": "lighting",
+      "source": "https://www.nexusmods.com/fallout4/mods/8768",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Reduces ambient light/fog in unlit interior corners, complements ELFX rather than replacing it"
     }
   ]
 }
