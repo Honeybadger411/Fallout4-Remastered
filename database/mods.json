@@ -839,6 +839,36 @@
       "version": "check-on-nexus",
       "requires": ["backported-archive2-support-system"],
       "notes": "Full creature and ecosystem overhaul: 60+ new mutants, new flora, fishing, crafting recipes. Final version, replaces all previous Mutant Menagerie releases (Big Game Hunting, Horrors of the Deep Fog, Nuclear Safari are retired). Requires BASS on our downgraded 1.10.163 setup"
+    },
+    {
+      "id": "hd-enhancement-creature-edition",
+      "name": "The HD Enhancement Project - Creature Edition",
+      "category": "creature",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/68238",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Retextures nearly all vanilla and DLC creatures (Super Mutants, ghouls, Mirelurks, Yao Guai, etc.) at 2K or 4K. Requires Far Harbor and Nuka-World for the full All-in-One version. Does not cover Deathclaws"
+    },
+    {
+      "id": "lc-uhd-deathclaw",
+      "name": "LC's UHD Deathclaw",
+      "category": "creature",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/59813",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "AI-upscaled texture replacer for Deathclaw and all variants, same file size as vanilla HD textures but significantly sharper. Fills the Deathclaw gap left by the Creature Edition pack"
+    },
+    {
+      "id": "hd-enhancement-robots-edition",
+      "name": "The HD Enhancement Project - Robots Edition",
+      "category": "creature",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/70731",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Retextures Assaultrons, Protectrons, Sentrybots, Mr. Handy/Nanny/Gutsy, Eyebots, Robobrain, Swarmbots, Gen 1 Synths, and synth/robot armor. Requires Automatron and Nuka-World"
     }
   ]
 }
