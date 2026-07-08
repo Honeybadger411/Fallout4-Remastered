@@ -439,6 +439,196 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "Allows Dogmeat plus a standard companion simultaneously. Modern rewrite of the original mod with better compatibility, integrated UFO4P fixes, and compatibility with Survival Configuration Menu"
+    },
+    {
+      "id": "workshop-framework",
+      "name": "Workshop Framework",
+      "category": "quest",
+      "subcategory": "framework",
+      "source": "https://www.nexusmods.com/fallout4/mods/35004",
+      "version": "check-on-nexus",
+      "requires": ["f4se"],
+      "notes": "Mandatory dependency for Sim Settlements 2. Opens settlement system for community modding, faster/more stable workshop scripts"
+    },
+    {
+      "id": "sim-settlements-2",
+      "name": "Sim Settlements 2",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/47976",
+      "version": "check-on-nexus",
+      "requires": ["workshop-framework"],
+      "notes": "Main quest and settlement gameplay overhaul, Chapter 1"
+    },
+    {
+      "id": "sim-settlements-2-chapter2",
+      "name": "Sim Settlements 2 - Chapter 2",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/55817",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Continues SS2 story, adds 3 new side questlines"
+    },
+    {
+      "id": "sim-settlements-2-chapter3",
+      "name": "Sim Settlements 2 - Chapter 3",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/73394",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2-chapter2"],
+      "notes": "Concludes SS2 story, settlement warfare content"
+    },
+    {
+      "id": "tales-from-the-commonwealth",
+      "name": "Atomic Radio and Tales from the Commonwealth",
+      "category": "quest",
+      "subcategory": "main",
+      "source": "https://www.nexusmods.com/fallout4/mods/8704",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Large quest/companion/settler mod plus radio station. Incomplete previs data on its own, see companion patches"
+    },
+    {
+      "id": "tales-precombined-visibility-patch",
+      "name": "Tales from the Commonwealth - Precombined Visibility Patch",
+      "category": "quest",
+      "subcategory": "main",
+      "source": "https://www.nexusmods.com/fallout4/mods/53726",
+      "version": "check-on-nexus",
+      "requires": ["tales-from-the-commonwealth"],
+      "notes": "Adds missing previs/precombine data to Tales from the Commonwealth cells"
+    },
+    {
+      "id": "emirals-tales-fixes",
+      "name": "Emirals Tales From The Commonwealth Fixes",
+      "category": "quest",
+      "subcategory": "main",
+      "source": "https://www.nexusmods.com/fallout4/mods/88016",
+      "version": "check-on-nexus",
+      "requires": ["tales-from-the-commonwealth", "unofficial-fallout4-patch"],
+      "notes": "Compatibility fixes for UFO4P and DLCs. Confirmed to work with game version 1.10.163"
+    },
+    {
+      "id": "america-rising-2",
+      "name": "America Rising 2 - Legacy of the Enclave",
+      "category": "quest",
+      "subcategory": "main",
+      "source": "https://www.nexusmods.com/fallout4/mods/75767",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "DLC-sized Enclave faction questline, successor to the original America Rising"
+    },
+    {
+      "id": "fourville",
+      "name": "Fourville",
+      "category": "quest",
+      "subcategory": "main",
+      "source": "https://www.nexusmods.com/fallout4/mods/43979",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "New town/vault quest hub, ~10 hours of content, fully voiced"
+    },
+    {
+      "id": "fourville-exopatch",
+      "name": "Fourville - eXoPatch",
+      "category": "quest",
+      "subcategory": "main",
+      "source": "https://www.nexusmods.com/fallout4/mods/61080",
+      "version": "check-on-nexus",
+      "requires": ["fourville"],
+      "notes": "Fixes visual glitches and quest bugs in Fourville"
+    },
+    {
+      "id": "the-machine-and-her",
+      "name": "The Machine and Her",
+      "category": "quest",
+      "subcategory": "companion",
+      "source": "https://www.nexusmods.com/fallout4/mods/30488",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "DLC-sized quest with fully voiced companion. Requires Far Harbor, Nuka-World and Automatron. Use with Revival replacer below"
+    },
+    {
+      "id": "the-machine-and-her-revival",
+      "name": "The Machine and Her Revival",
+      "category": "quest",
+      "subcategory": "companion",
+      "source": "https://www.nexusmods.com/fallout4/mods/84847",
+      "version": "check-on-nexus",
+      "requires": ["the-machine-and-her"],
+      "notes": "Community rebuild: cleaned cell headers, rebuilt navmesh, new previs/precombines, many bugfixes. Original still needed for texture archive"
+    },
+    {
+      "id": "outcasts-and-remnants",
+      "name": "Outcasts and Remnants - Quest Mod Plus",
+      "category": "quest",
+      "subcategory": "main",
+      "source": "https://www.nexusmods.com/fallout4/mods/21469",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Large voiced quest mod, foundation for Project Valkyrie"
+    },
+    {
+      "id": "project-valkyrie",
+      "name": "Project Valkyrie",
+      "category": "quest",
+      "subcategory": "main",
+      "source": "https://www.nexusmods.com/fallout4/mods/28085",
+      "version": "check-on-nexus",
+      "requires": ["outcasts-and-remnants"],
+      "notes": "Endgame-focused quest mod, uses Outcasts and Remnants as required master file"
+    },
+    {
+      "id": "fusion-city-rising",
+      "name": "Fusion City Rising",
+      "category": "quest",
+      "subcategory": "main",
+      "source": "https://www.nexusmods.com/fallout4/mods/16423",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Large underground city quest mod, less strictly lore-friendly than others in this list"
+    },
+    {
+      "id": "children-of-ug-qualtoth",
+      "name": "Children of Ug-Qualtoth",
+      "category": "quest",
+      "subcategory": "main",
+      "source": "https://www.nexusmods.com/fallout4/mods/43527",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Lore-friendly Lovecraftian horror dungeon quest with unique enemies and custom music"
+    },
+    {
+      "id": "maxwells-world",
+      "name": "Maxwell's World",
+      "category": "quest",
+      "subcategory": "main",
+      "source": "https://www.nexusmods.com/fallout4/mods/18949",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "DLC-sized horror quest in a haunted amusement park, multiple endings. Conflicts with XDI without patch below"
+    },
+    {
+      "id": "maxwells-world-xdi-patch",
+      "name": "Maxwell's World XDI Patch",
+      "category": "quest",
+      "subcategory": "main",
+      "source": "https://www.nexusmods.com/fallout4/mods/57010",
+      "version": "check-on-nexus",
+      "requires": ["maxwells-world", "extended-dialogue-interface"],
+      "notes": "Required compatibility patch since our setup includes XDI"
+    },
+    {
+      "id": "depravity",
+      "name": "Depravity - A Bit of Harmless Fun",
+      "category": "quest",
+      "subcategory": "main",
+      "source": "https://www.nexusmods.com/fallout4/mods/35513",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Quest/companion mod by the Outcasts and Remnants/Project Valkyrie author, focused on morally darker player choices and an antagonist-leaning faction. Tonally different from the rest of this list"
     }
   ]
 }
