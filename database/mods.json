@@ -1061,6 +1061,76 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "7 new interiors in Bradberton, Nuka-World, with own quest. Confirmed perfectly compatible with Beantown Interiors Project, does not touch vanilla navmesh. Requires Nuka-World DLC. By shreddah4"
+    },
+    {
+      "id": "weapon-overhaul-project",
+      "name": "Weapon Overhaul Project (WOP)",
+      "category": "weapon",
+      "subcategory": "lore-friendly",
+      "source": "https://www.nexusmods.com/fallout4/mods/69026",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Curated integration of Service Rifle, M1 Garand, Wattz Laser Gun, Point Lookout weapon and 22LR Pistol with balance fixes between them. Modular installer, actively maintained"
+    },
+    {
+      "id": "chinese-assault-rifle-reborn",
+      "name": "Chinese Assault Rifle - REBORN",
+      "category": "weapon",
+      "subcategory": "lore-friendly",
+      "source": "https://www.nexusmods.com/fallout4/mods/68570",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Updated revisit of Wasteland Melody's Chinese Assault Rifle with tweaks and additions. Optional Tactical Reload patch available"
+    },
+    {
+      "id": "grease-gun-smg",
+      "name": "Grease Gun SMG",
+      "category": "weapon",
+      "subcategory": "lore-friendly",
+      "source": "https://www.nexusmods.com/fallout4/mods/21921",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Adds the Grease Gun (9mm Submachine Gun) as seen in Fallout 2 and New Vegas"
+    },
+    {
+      "id": "m72-gauss-rifle",
+      "name": "M72 Gauss Rifle",
+      "category": "weapon",
+      "subcategory": "lore-friendly",
+      "source": "https://www.nexusmods.com/fallout4/mods/43442",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Classic Fallout 2 style Gauss Rifle with custom animations, script-based leveled list integration. Requires Nuka-World DLC and game version 1.10.162+"
+    },
+    {
+      "id": "t6m-anti-materiel-rifle",
+      "name": "T6M's Standalone Anti-Materiel Rifle",
+      "category": "weapon",
+      "subcategory": "lore-friendly",
+      "source": "https://www.nexusmods.com/fallout4/mods/66411",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Standalone, well-balanced Anti-Materiel Rifle conversion, praised in the community for its balance"
+    },
+    {
+      "id": "institute-pulse-carbine",
+      "name": "Institute Pulse Carbine",
+      "category": "weapon",
+      "subcategory": "lore-friendly",
+      "source": "https://www.nexusmods.com/fallout4/mods/58521",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "New Institute weapon on par with vanilla plasma weapons, adds tracking projectile option. Leveled list integration from level 20"
+    },
+    {
+      "id": "institute-pulse-carbine-fix",
+      "name": "Pulse Carbine Fix",
+      "category": "weapon",
+      "subcategory": "lore-friendly",
+      "source": "https://www.nexusmods.com/fallout4/mods/64924",
+      "version": "check-on-nexus",
+      "requires": ["institute-pulse-carbine"],
+      "notes": "Fixes two small bugs with standard and improvised stock mods on the Pulse Carbine"
     }
   ]
 }
