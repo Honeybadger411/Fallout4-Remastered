@@ -379,6 +379,66 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "Reduces ambient light/fog in unlit interior corners, complements ELFX rather than replacing it"
+    },
+    {
+      "id": "unlimited-fast-travel",
+      "name": "Unlimited Fast Travel - F4SE",
+      "category": "quality-of-life",
+      "subcategory": "convenience",
+      "source": "https://www.nexusmods.com/fallout4/mods/26161",
+      "version": "check-on-nexus",
+      "requires": ["f4se"],
+      "notes": "Removes fast travel restrictions (interior, survival mode, overweight, combat, etc.)"
+    },
+{
+      "id": "quicktrade-redux",
+      "name": "QuickTrade Redux",
+      "category": "quality-of-life",
+      "subcategory": "interaction",
+      "source": "https://www.nexusmods.com/fallout4/mods/41101",
+      "version": "check-on-nexus",
+      "requires": ["mcm"],
+      "notes": "Adds quick trade/inventory access to merchants, settlers and companions without dialogue menus. Enhanced fork of the original QuickTrade mod"
+    },
+    {
+      "id": "place-everywhere",
+      "name": "Place Everywhere",
+      "category": "quality-of-life",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/9424",
+      "version": "check-on-nexus",
+      "requires": ["f4se"],
+      "notes": "Removes settlement building placement restrictions (red highlighting), makes scrap-only objects movable. Confirmed compatible with game version 1.10.163"
+    },
+    {
+      "id": "unlimited-fast-travel",
+      "name": "Unlimited Fast Travel - F4SE",
+      "category": "quality-of-life",
+      "subcategory": "convenience",
+      "source": "https://www.nexusmods.com/fallout4/mods/26161",
+      "version": "check-on-nexus",
+      "requires": ["f4se"],
+      "notes": "Removes fast travel restrictions (interior, survival mode, overweight, combat, etc.)"
+    },
+    {
+      "id": "faster-terminal-displays",
+      "name": "Faster Terminal Displays",
+      "category": "quality-of-life",
+      "subcategory": "convenience",
+      "source": "https://www.nexusmods.com/fallout4/mods/937",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Speeds up terminal text display (choice of 2x-100x). Simple, low-risk ESP with no known conflicts"
+    },
+    {
+      "id": "simple-everyones-best-friend",
+      "name": "Simple Everyone's Best Friend",
+      "category": "quality-of-life",
+      "subcategory": "companions",
+      "source": "https://www.nexusmods.com/fallout4/mods/92314",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Allows Dogmeat plus a standard companion simultaneously. Modern rewrite of the original mod with better compatibility, integrated UFO4P fixes, and compatibility with Survival Configuration Menu"
     }
   ]
 }
