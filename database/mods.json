@@ -199,6 +199,146 @@
       "version": "1.0.0",
       "requires": ["f4se", "enbseries"],
       "notes": "Combined weather overhaul and ENB preset"
+    },
+    {
+      "id": "luxor-hd-overhaul",
+      "name": "Fallout 4 HD Overhaul",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/52423",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "HD texture overhaul (1K-8K) covering base game and DLCs, by luxor8071"
+    },
+    {
+      "id": "savrenx-landscape",
+      "name": "SavrenX HD Vanilla Landscape",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/40551",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Enhanced vanilla landscape/terrain textures with restored depth and detail"
+    },
+    {
+      "id": "savrenx-buildings",
+      "name": "SavrenX HD 1K Buildings and Interior",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/40534",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "1K building/interior textures, optimized to be smaller than vanilla while looking sharper"
+    },
+    {
+      "id": "savrenx-landscape-interior-dlc",
+      "name": "SavrenX Landscape Interior Building DLC",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/40592",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "DLC counterpart to Landscape/Buildings packs, covering Far Harbor, Nuka-World and Automatron. Verify exact DLC coverage on the mod page."
+    },
+    {
+      "id": "savrenx-settlement-clutter",
+      "name": "SavrenX HD Settlement and Clutters",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/40485",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Enhanced settlement objects and clutter items (furniture, signs, workbenches, etc.). DLC version bundled on same mod page."
+    },
+    {
+      "id": "savrenx-armor",
+      "name": "SavrenX HD Vanilla Armor",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/40218",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Enhanced vanilla armor textures, capped at 2K for performance on high-spawn items"
+    },
+    {
+      "id": "savrenx-clothes",
+      "name": "SavrenX HD Vanilla Clothes",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/40203",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Enhanced vanilla clothing textures"
+    },
+    {
+      "id": "savrenx-dlc-armor-clothes",
+      "name": "SavrenX HD DLC Armor and Clothes",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/40159",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Armor and clothing textures for Far Harbor, Automatron and Nuka-World"
+    },
+    {
+      "id": "savrenx-power-armor-dlc",
+      "name": "SavrenX Power Armor HD DLC",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/40373",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Enhanced Power Armor textures for DLC armor sets. Details unverified beyond mod name/ID, check page directly."
+    },
+    {
+      "id": "savrenx-weapons-dlc",
+      "name": "SavrenX Weapon HD DLC",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/40341",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Enhanced weapon textures for DLC weapons. Details unverified beyond mod name/ID, check page directly."
+    },
+    {
+      "id": "savrenx-creatures",
+      "name": "SavrenX Creature Pack DLC REDONE",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/40280",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Enhanced creature textures for base game and DLC, excluding Deathclaw/Ghoul/Robot"
+    },
+    {
+      "id": "savrenx-organic-gore",
+      "name": "SavrenX Organic Gore",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/40351",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Enhanced gore/dismemberment textures. Details unverified beyond mod name/ID, check page directly."
+    },
+    {
+      "id": "savrenx-organic-super-mutant",
+      "name": "SavrenX Organic Super Mutant",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/40397",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Enhanced Super Mutant skin textures. Details unverified beyond mod name/ID, check page directly."
+    },
+    {
+      "id": "savrenx-super-mutant-armor",
+      "name": "SavrenX Super Mutant Armor HD",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/40253",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Enhanced Super Mutant armor/gear textures. Details unverified beyond mod name/ID, check page directly."
     }
   ]
 }
