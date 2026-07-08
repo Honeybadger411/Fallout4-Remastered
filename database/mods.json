@@ -1131,6 +1131,96 @@
       "version": "check-on-nexus",
       "requires": ["institute-pulse-carbine"],
       "notes": "Fixes two small bugs with standard and improvised stock mods on the Pulse Carbine"
+    },
+    {
+      "id": "classic-combat-armor",
+      "name": "Classic Combat Armor",
+      "category": "armor",
+      "subcategory": "lore-friendly",
+      "source": "https://www.nexusmods.com/fallout4/mods/27717",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Brings back the Fallout 3/New Vegas style Combat Armor (Light/Medium/Heavy). Statistically identical to vanilla, purely visual difference. Script-based leveled list injection"
+    },
+    {
+      "id": "classic-metal-armor",
+      "name": "Fallout 4 Capital Wasteland Classic Metal Armor",
+      "category": "armor",
+      "subcategory": "lore-friendly",
+      "source": "https://www.nexusmods.com/fallout4/mods/39857",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Adds the classic Metal Armor from Fallout 3/New Vegas with 4 underarmor options and a level-based tier system. Script-based leveled list integration, spawns from level 15"
+    },
+    {
+      "id": "gunner-outfit-pack",
+      "name": "Gunner Outfit Pack (STANDALONE)",
+      "category": "armor",
+      "subcategory": "faction-gear",
+      "source": "https://www.nexusmods.com/fallout4/mods/43686",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Modder's resource adding 215 Gunner-themed outfits, helmets, masks and backpacks. Standalone only, needs a distribution mod to appear on Gunner NPCs"
+    },
+    {
+      "id": "thats-gunner-life",
+      "name": "Thats Gunner Life - Gunner Outfit Pack Distribution and Balance",
+      "category": "armor",
+      "subcategory": "faction-gear",
+      "source": "https://www.nexusmods.com/fallout4/mods/68969",
+      "version": "check-on-nexus",
+      "requires": ["gunner-outfit-pack"],
+      "notes": "Actively maintained (March 2026) distribution and balance overhaul for Gunner Outfit Pack. Level-tiered spawning, rebalanced stats to make Gunners feel like a credible military threat rather than raiders with different textures"
+    },
+    {
+      "id": "capital-wasteland-outfit-pack",
+      "name": "Capital Wasteland Outfit Pack",
+      "category": "armor",
+      "subcategory": "lore-friendly",
+      "source": "https://www.nexusmods.com/fallout4/mods/41380",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Faithful recreations of Fallout 3 misc outfits (Tenpenny Suit, jumpsuits, pre-war outfits). Leveled list integration"
+    },
+    {
+      "id": "capital-wasteland-outfit-pack-2",
+      "name": "Capital Wasteland Outfit Pack Part II",
+      "category": "armor",
+      "subcategory": "lore-friendly",
+      "source": "https://www.nexusmods.com/fallout4/mods/59105",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Second collection of ~50 Fallout 3 style outfits including Recon Armor, unique named outfits (Colonel Autumn, General Chase, Mechanist)"
+    },
+    {
+      "id": "private-military-company",
+      "name": "Private Military Company - PMC",
+      "category": "armor",
+      "subcategory": "faction-gear",
+      "source": "https://www.nexusmods.com/fallout4/mods/41332",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Adds a modern PMC-style outfit with custom camouflages and gloves, craftable at the Chemistry Station"
+    },
+    {
+      "id": "pmc-extended",
+      "name": "Private Military Company Extended",
+      "category": "armor",
+      "subcategory": "faction-gear",
+      "source": "https://www.nexusmods.com/fallout4/mods/44126",
+      "version": "check-on-nexus",
+      "requires": ["private-military-company"],
+      "notes": "Adds more patches, camouflages and a new vest loadout for PMC"
+    },
+    {
+      "id": "the-mercenary-pack",
+      "name": "The Mercenary - Pack",
+      "category": "armor",
+      "subcategory": "faction-gear",
+      "source": "https://www.nexusmods.com/fallout4/mods/20088",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Comprehensive outfit pack (B-90, Rebel, SNCR, Gunner overhaul, Wastelander outfits) designed to visually blend seamlessly with vanilla assets"
     }
   ]
 }
