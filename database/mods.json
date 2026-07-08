@@ -1391,6 +1391,26 @@
       "version": "check-on-nexus",
       "requires": ["workshop-framework"],
       "notes": "81 new settlement objects for resource production: brewery/distillery, greenhouses, hydroponics, compost"
+    },
+    {
+      "id": "legendary-effect-overhaul",
+      "name": "Legendary Effect Overhaul (LEO)",
+      "category": "gameplay",
+      "subcategory": "legendary-system",
+      "source": "https://www.nexusmods.com/fallout4/mods/66900",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Modular overhaul of the legendary system: craft/detach/swap effects, optional additional legendary slots, Fallout 76 effects as toggleable option. Fully configurable via holotape or MCM. Anniversary Update Compatible, no AWKCR required"
+    },
+    {
+      "id": "barter-vendor-economy-overhaul",
+      "name": "Barter - A Vendor and Economy Overhaul",
+      "category": "gameplay",
+      "subcategory": "economy",
+      "source": "https://www.nexusmods.com/fallout4/mods/72654",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Reduces vendor caps to realistic amounts (30-50), makes trading more central than cap-farming junk. Dynamic restock system based on prior trading. Patching-script based for high compatibility"
     }
   ]
 }
