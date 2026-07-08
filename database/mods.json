@@ -921,6 +921,56 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "Lore-friendly overhaul making the Minutemen resemble a proper Continental Army, on par with other major factions. Part of the same 'Improved Faction' mod series as Improved Hostile Factions, designed for compatibility"
+    },
+    {
+      "id": "improved-railroad",
+      "name": "Improved Railroad",
+      "category": "npc-factions",
+      "subcategory": "friendly-overhaul",
+      "source": "https://www.nexusmods.com/fallout4/mods/76749",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Lore-friendly overhaul making the Railroad resemble a proper Underground Railroad, on par with other major factions. Part of the Improved Faction series"
+    },
+    {
+      "id": "improved-institute",
+      "name": "Improved Institute",
+      "category": "npc-factions",
+      "subcategory": "friendly-overhaul",
+      "source": "https://www.nexusmods.com/fallout4/mods/76757",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Overhauls the Institute to weaponize their teleportation technology, making them a credible threat/power. Part of the Improved Faction series"
+    },
+    {
+      "id": "improved-brotherhood-of-steel",
+      "name": "Improved Brotherhood of Steel",
+      "category": "npc-factions",
+      "subcategory": "friendly-overhaul",
+      "source": "https://www.nexusmods.com/fallout4/mods/76756",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Makes the Brotherhood of Steel a true power in the Commonwealth, fixes vanilla balance where elite squads die to two Super Mutants. Part of the Improved Faction series, actively maintained (last updated July 2026)"
+    },
+    {
+      "id": "npcs-travel",
+      "name": "NPCs Travel",
+      "category": "npc-factions",
+      "subcategory": "world-population",
+      "source": "https://www.nexusmods.com/fallout4/mods/16987",
+      "version": "check-on-nexus",
+      "requires": ["f4se"],
+      "notes": "Adds 300+ traveling NPCs (traders, hunters, scavengers, faction patrols) across the Commonwealth, Far Harbor and Nuka-World for a more populated world"
+    },
+    {
+      "id": "npcs-travel-mcm",
+      "name": "NPCs Travel - MCM Settings Menu",
+      "category": "npc-factions",
+      "subcategory": "world-population",
+      "source": "https://www.nexusmods.com/fallout4/mods/56311",
+      "version": "check-on-nexus",
+      "requires": ["npcs-travel", "mcm"],
+      "notes": "Adds full MCM configuration menu for NPCs Travel settings, including save/load of settings between games"
     }
   ]
 }
