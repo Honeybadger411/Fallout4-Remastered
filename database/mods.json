@@ -971,6 +971,96 @@
       "version": "check-on-nexus",
       "requires": ["npcs-travel", "mcm"],
       "notes": "Adds full MCM configuration menu for NPCs Travel settings, including save/load of settings between games"
+    },
+    {
+      "id": "misery-island-isles-of-new-england",
+      "name": "Misery Island - Isles Of New England",
+      "category": "location",
+      "subcategory": "new-worldspace",
+      "source": "https://www.nexusmods.com/fallout4/mods/87983",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Large new worldspace based on the real-life Misery Islands near Salem. 20+ locations, 8 interiors, 2 settlements, own questline and radio station. Does not touch vanilla cells or precombines, very high compatibility with PRP"
+    },
+    {
+      "id": "misery-island-exopatch",
+      "name": "Misery Island - eXoPatch",
+      "category": "location",
+      "subcategory": "new-worldspace",
+      "source": "https://www.nexusmods.com/fallout4/mods/98817",
+      "version": "check-on-nexus",
+      "requires": ["misery-island-isles-of-new-england"],
+      "notes": "Rebalances enemies and gear in Misery Island"
+    },
+    {
+      "id": "fallout4-point-lookout",
+      "name": "Fallout 4 - Point Lookout",
+      "category": "location",
+      "subcategory": "new-worldspace",
+      "source": "https://www.nexusmods.com/fallout4/mods/60330",
+      "version": "check-on-nexus",
+      "requires": ["extended-dialogue-interface"],
+      "notes": "Full, faithful recreation of Fallout 3's Point Lookout DLC: all quests, locations, NPCs, enemies and most items. Requires all Fallout 4 DLCs and XDI (dialogue scenes with more than 4 options)"
+    },
+    {
+      "id": "point-lookout-essential-fixes",
+      "name": "Point Lookout - Essential Fixes and Additions",
+      "category": "location",
+      "subcategory": "new-worldspace",
+      "source": "https://www.nexusmods.com/fallout4/mods/86304",
+      "version": "check-on-nexus",
+      "requires": ["fallout4-point-lookout"],
+      "notes": "Fixes bugs (e.g. Velvet Curtain quest restart issue) and adds power supply to the Farm Shack player home"
+    },
+    {
+      "id": "boon-island-isles-of-new-england",
+      "name": "Boon Island - Isles Of New England",
+      "category": "location",
+      "subcategory": "new-worldspace",
+      "source": "https://www.nexusmods.com/fallout4/mods/84449",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "First chapter of the Isles Of New England series. Small atmospheric island off the coast of Maine with a fully voiced quest and settlement. Does not touch vanilla cells or precombines. Confirmed compatible with game version 1.10.163"
+    },
+    {
+      "id": "ashland-station",
+      "name": "Ashland Station - Quest-Dungeon-Settlement",
+      "category": "location",
+      "subcategory": "new-worldspace",
+      "source": "https://www.nexusmods.com/fallout4/mods/78033",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "New subway station location with fully voiced lore-friendly quest, settlement with immersive repairs, expansive dungeon, and custom legendary weapon/armor effects. By the same authors as the Isles of New England series"
+    },
+    {
+      "id": "caves-of-the-commonwealth",
+      "name": "Caves Of The Commonwealth",
+      "category": "location",
+      "subcategory": "new-worldspace",
+      "source": "https://www.nexusmods.com/fallout4/mods/75647",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Adds 5 new cave locations with 5 new quests, custom audio/textures/animations, designed to fit seamlessly into vanilla with balanced loot and lore-friendly backstories"
+    },
+    {
+      "id": "wild-key-chase",
+      "name": "The Wild Key Chase - Quest and Location mod",
+      "category": "location",
+      "subcategory": "new-worldspace",
+      "source": "https://www.nexusmods.com/fallout4/mods/67972",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "5 reimagined locations tied together by a quest from Sanctuary through Diamond City to the Salem coast. Lore-friendly, fair and balanced, roughly 1-2 hours of gameplay. By shreddah4"
+    },
+    {
+      "id": "bradberton-interiors",
+      "name": "Bradberton Interiors",
+      "category": "location",
+      "subcategory": "interiors",
+      "source": "https://www.nexusmods.com/fallout4/mods/69131",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "7 new interiors in Bradberton, Nuka-World, with own quest. Confirmed perfectly compatible with Beantown Interiors Project, does not touch vanilla navmesh. Requires Nuka-World DLC. By shreddah4"
     }
   ]
 }
