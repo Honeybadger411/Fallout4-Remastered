@@ -16,7 +16,7 @@
       "category": "core",
       "subcategory": "stability",
       "source": "https://www.nexusmods.com/fallout4/mods/47359",
-      "version": "1.34.0",
+      "version": "1.28.6",
       "requires": ["f4se", "address-library"],
       "notes": "Crash-/Memory-/Engine-Fixes, Basis for Stability, Recommended for all users"
     },
@@ -36,7 +36,7 @@
       "category": "core",
       "subcategory": "stability",
       "source": "https://www.nexusmods.com/fallout4/mods/44798",
-      "version": "1.14",
+      "version": "0.8.13 OldGen",
       "requires": ["f4se", "address-library"],
       "notes": "Prevents physics bugs at framerates above 60 FPS"
     },
@@ -45,8 +45,8 @@
       "name": "Baka ScrapHeap",
       "category": "core",
       "subcategory": "stability",
-      "source": "https://www.nexusmods.com/fallout4/mods/26722",
-      "version": "2.1",
+      "source": "https://www.nexusmods.com/fallout4/mods/46340",
+      "version": "1.3.0",
       "requires": ["f4se"],
       "notes": "Increases available memory heap, reduces crashes in large sessions"
     },
@@ -55,8 +55,8 @@
       "name": "Canary Save File Monitor",
       "category": "core",
       "subcategory": "stability",
-      "source": "https://www.nexusmods.com/fallout4/mods/44577",
-      "version": "1.4.1",
+      "source": "https://www.nexusmods.com/fallout4/mods/44949",
+      "version": "1.0.0",
       "requires": ["f4se"],
       "notes": "Warns about save file corruption before it becomes a problem"
     },
@@ -66,7 +66,7 @@
       "category": "bugfix",
       "subcategory": "vanilla-fixes",
       "source": "https://www.nexusmods.com/fallout4/mods/4598",
-      "version": "2.1.4",
+      "version": "2.1.5",
       "requires": [],
       "notes": "Community-maintained collection of fixes for vanilla bugs missed by official patches"
     },
@@ -75,8 +75,8 @@
       "name": "Community Fixes Merged",
       "category": "bugfix",
       "subcategory": "vanilla-fixes",
-      "source": "https://www.nexusmods.com/fallout4/mods/58020",
-      "version": "1.0",
+      "source": "https://www.nexusmods.com/fallout4/mods/74945",
+      "version": "4.6.2",
       "requires": [],
       "notes": "Merged collection of individual community bugfix mods not covered by UFO4P"
     },
@@ -86,7 +86,7 @@
       "category": "bugfix",
       "subcategory": "performance",
       "source": "https://www.nexusmods.com/fallout4/mods/46403",
-      "version": "1.5",
+      "version": "74.30",
       "requires": [],
       "notes": "Repairs broken precombines/previsibines, major performance improvement especially in Boston"
     },
@@ -95,10 +95,90 @@
       "name": "Extended Dialogue Interface (XDI)",
       "category": "gameplay",
       "subcategory": "framework",
-      "source": "https://www.nexusmods.com/fallout4/mods/48986",
-      "version": "2.0.4",
+      "source": "https://www.nexusmods.com/fallout4/mods/27216?tab=files",
+      "version": "1.3.6",
       "requires": ["f4se"],
       "notes": "Extends dialogue menu functionality, required by several UI mods including FallUI"
+    },
+    {
+      "id": "mcm",
+      "name": "Mod Configuration Menu (MCM)",
+      "category": "ui",
+      "subcategory": "framework",
+      "source": "https://www.nexusmods.com/fallout4/mods/21497",
+      "version": "1.39",
+      "requires": ["f4se"],
+      "notes": "In-game settings menu framework, required by many mods for configuration. Verify version matches game 1.10.163, not Next-Gen builds."
+    },
+    {
+      "id": "looksmenu",
+      "name": "LooksMenu",
+      "category": "ui",
+      "subcategory": "framework",
+      "source": "https://www.nexusmods.com/fallout4/mods/12631",
+      "version": "1.6.20",
+      "requires": ["f4se"],
+      "notes": "Mandatory: Character/face editor overhaul, required by many appearance mods. Verify version matches game 1.10.163, not Next-Gen builds."
+    },
+    {
+      "id": "fallui-inventory",
+      "name": "FallUI - Inventory",
+      "category": "ui",
+      "subcategory": "fallui",
+      "source": "https://www.nexusmods.com/fallout4/mods/48758",
+      "version": "2.2.1",
+      "requires": ["f4se", "mcm"],
+      "notes": "Redesigned inventory menu with sorting, icons and filtering"
+    },
+    {
+      "id": "fallui-hud",
+      "name": "FallUI - HUD",
+      "category": "ui",
+      "subcategory": "fallui",
+      "source": "https://www.nexusmods.com/fallout4/mods/51813",
+      "version": "1.7.1",
+      "requires": ["f4se", "mcm"],
+      "notes": "Highly configurable HUD with in-game layout manager"
+    },
+    {
+      "id": "fallui-map",
+      "name": "FallUI - Map",
+      "category": "ui",
+      "subcategory": "fallui",
+      "source": "https://www.nexusmods.com/fallout4/mods/49920",
+      "version": "2.1",
+      "requires": ["f4se", "mcm"],
+      "notes": "Overhauled world/local map with better markers, search and readability"
+    },
+    {
+      "id": "fallui-workbench",
+      "name": "FallUI - Workbench",
+      "category": "ui",
+      "subcategory": "fallui",
+      "source": "https://www.nexusmods.com/fallout4/mods/49300",
+      "version": "1.4.1-r2",
+      "requires": ["f4se", "mcm"],
+      "notes": "Redesigned crafting/workbench menus with larger display and comparison columns"
+    },
+    {
+      "id": "fallui-item-sorter",
+      "name": "FIS - The NEW FallUI Item Sorter",
+      "category": "ui",
+      "subcategory": "fallui",
+      "source": "https://www.nexusmods.com/fallout4/mods/60580",
+      "version": "2.1",
+      "requires": ["fallui-inventory"],
+      "notes": "Official item sorting/tagging system for FallUI Inventory, HUD and Workbench"
+    },
+    {
+      "id": "better-console",
+      "name": "Better Console - F4SE",
+      "category": "ui",
+      "subcategory": "utility",
+      "source": "https://www.nexusmods.com/fallout4/mods/26582",
+      "version": "1.6.2",
+      "requires": ["f4se"],
+      "notes": "Improved developer console with detailed target info. Confirmed compatible with game version 1.10.163"
     }
   ]
 }
