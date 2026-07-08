@@ -179,6 +179,26 @@
       "version": "1.6.2",
       "requires": ["f4se"],
       "notes": "Improved developer console with detailed target info. Confirmed compatible with game version 1.10.163"
+    },
+    {
+      "id": "enbseries",
+      "name": "ENBSeries (Fallout 4 binary)",
+      "category": "graphics",
+      "subcategory": "engine",
+      "source": "http://enbdev.com/download_mod_fallout4.htm",
+      "version": "check-on-enbdev,0.496",
+      "requires": [],
+      "notes": "Base graphics injector by Boris Vorontsov, required by all ENB presets. Not hosted on Nexus. v0.496 reported as most broadly compatible with existing presets; v0.501 has known issues with water/SSS/fog. Check which binary version the chosen preset (NAC X) was built for."
+    },
+    {
+      "id": "nac-x",
+      "name": "NAC X - Natural and Atmospheric Commonwealth",
+      "category": "graphics",
+      "subcategory": "weather-enb",
+      "source": "https://www.nexusmods.com/fallout4/mods/46722",
+      "version": "1.0.0",
+      "requires": ["f4se", "enbseries"],
+      "notes": "Combined weather overhaul and ENB preset"
     }
   ]
 }
