@@ -1411,6 +1411,86 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "Reduces vendor caps to realistic amounts (30-50), makes trading more central than cap-farming junk. Dynamic restock system based on prior trading. Patching-script based for high compatibility"
+    },
+    {
+      "id": "perk-up",
+      "name": "Perk Up - Lightweight Perk Overhaul",
+      "category": "gameplay",
+      "subcategory": "perks",
+      "source": "https://www.nexusmods.com/fallout4/mods/62843",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Lightweight rework of individual underperforming perks (Inspirational, Iron Fist, Refractor, Ghoulish, etc.) rather than a full skill-tree overhaul. Matches a vanilla-plus philosophy"
+    },
+    {
+      "id": "old-world-radio-boston",
+      "name": "OLD WORLD RADIO - BOSTON",
+      "category": "audio",
+      "subcategory": "radio",
+      "source": "https://www.nexusmods.com/fallout4/mods/9048",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "30+ new fully voiced radio stations with over 300 hours of content, 1500+ sound effects, plus craftable radios, flags, posters and billboards for settlements. Considered the reference mod for radio expansion"
+    },
+    {
+      "id": "looksmenu-customization-compendium",
+      "name": "Looks Menu Customization Compendium",
+      "category": "ui",
+      "subcategory": "character-creation",
+      "source": "https://www.nexusmods.com/fallout4/mods/24830",
+      "version": "check-on-nexus",
+      "requires": ["looksmenu"],
+      "notes": "Adds hundreds of customization options (face paint, tattoos, scars, makeup, brows, hair colors). Standard prerequisite framework for most community character presets"
+    },
+    {
+      "id": "cirilla-looksmenu-preset",
+      "name": "Cirilla Fiona Elen Riannon - A looksmenu preset",
+      "category": "ui",
+      "subcategory": "character-preset",
+      "source": "https://www.nexusmods.com/fallout4/mods/19334",
+      "version": "FINAL",
+      "requires": ["looksmenu", "no-more-eye-shine", "eyes-of-beauty", "ponytail-hairstyles-azar", "valkyr-female-textures"],
+      "notes": "LooksMenu preset recreating Ciri from The Witcher 3"
+    },
+    {
+      "id": "no-more-eye-shine",
+      "name": "Nomore eye shine",
+      "category": "ui",
+      "subcategory": "character-creation",
+      "source": "https://www.nexusmods.com/fallout4/mods/19200",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Reduces the vanilla eye shine/reflection effect"
+    },
+    {
+      "id": "eyes-of-beauty",
+      "name": "The Eyes Of Beauty Fallout Edition",
+      "category": "ui",
+      "subcategory": "character-creation",
+      "source": "https://www.nexusmods.com/fallout4/mods/133",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "High resolution eye texture replacer/expansion for both genders"
+    },
+    {
+      "id": "ponytail-hairstyles-azar",
+      "name": "Ponytail Hairstyles by Azar",
+      "category": "ui",
+      "subcategory": "character-creation",
+      "source": "https://www.nexusmods.com/fallout4/mods/8126",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Standalone ponytail hairstyles for female characters"
+    },
+    {
+      "id": "valkyr-female-textures",
+      "name": "Valkyr Female Face and Body Textures",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/3841",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Female face and body texture replacer"
     }
   ]
 }
