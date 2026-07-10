@@ -281,6 +281,16 @@
       "notes": "Enhanced settlement objects and clutter items (furniture, signs, workbenches, etc.). DLC version bundled on same mod page."
     },
     {
+      "id": "savrenx-junk-props-dlc",
+      "name": "SavrenX HD Junk and Props DLC",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/40423",
+      "version": "1.00",
+      "requires": [],
+      "notes": "Enhances almost all junk and props from the DLCs to highest quality with smallest file size"
+    },
+    {
       "id": "savrenx-armor",
       "name": "SavrenX HD Vanilla Armor",
       "category": "graphics",
