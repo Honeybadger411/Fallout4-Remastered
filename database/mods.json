@@ -281,16 +281,6 @@
       "notes": "Armor and clothing textures for Far Harbor, Automatron and Nuka-World"
     },
     {
-      "id": "savrenx-power-armor-dlc",
-      "name": "SavrenX Power Armor HD DLC",
-      "category": "graphics",
-      "subcategory": "textures",
-      "source": "https://www.nexusmods.com/fallout4/mods/40373",
-      "version": "check-on-nexus",
-      "requires": [],
-      "notes": "Enhanced Power Armor textures for DLC armor sets. Details unverified beyond mod name/ID, check page directly."
-    },
-    {
       "id": "savrenx-weapons-dlc",
       "name": "SavrenX Weapon HD DLC",
       "category": "graphics",
