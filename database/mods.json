@@ -227,8 +227,18 @@
       "subcategory": "textures",
       "source": "https://www.nexusmods.com/fallout4/mods/52423",
       "version": "check-on-nexus",
-      "requires": [],
+      "requires": ["visible-galaxy"],
       "notes": "HD texture overhaul (1K-8K) covering base game and DLCs, by luxor8071"
+    },
+    {
+      "id": "visible-galaxy",
+      "name": "Visible Galaxy 4k and Framework",
+      "category": "graphics",
+      "subcategory": "textures",
+      "source": "https://www.nexusmods.com/fallout4/mods/19127",
+      "version": "1.0",
+      "requires": [],
+      "notes": "Adds a visible Milky Way galaxy to the night sky in 4K. Required by Fallout 4 HD Overhaul (Luxor's)"
     },
     {
       "id": "savrenx-landscape",
