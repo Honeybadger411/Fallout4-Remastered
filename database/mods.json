@@ -947,7 +947,7 @@
       "subcategory": "friendly-overhaul",
       "source": "https://www.nexusmods.com/fallout4/mods/76755",
       "version": "check-on-nexus",
-      "requires": [],
+      "requires": ["random-encounter-framework"],
       "notes": "Lore-friendly overhaul making the Minutemen resemble a proper Continental Army, on par with other major factions. Part of the same 'Improved Faction' mod series as Improved Hostile Factions, designed for compatibility"
     },
     {
@@ -957,7 +957,7 @@
       "subcategory": "friendly-overhaul",
       "source": "https://www.nexusmods.com/fallout4/mods/76749",
       "version": "check-on-nexus",
-      "requires": [],
+      "requires": ["random-encounter-framework"],
       "notes": "Lore-friendly overhaul making the Railroad resemble a proper Underground Railroad, on par with other major factions. Part of the Improved Faction series"
     },
     {
@@ -967,7 +967,7 @@
       "subcategory": "friendly-overhaul",
       "source": "https://www.nexusmods.com/fallout4/mods/76757",
       "version": "check-on-nexus",
-      "requires": [],
+      "requires": ["random-encounter-framework"],
       "notes": "Overhauls the Institute to weaponize their teleportation technology, making them a credible threat/power. Part of the Improved Faction series"
     },
     {
@@ -1569,6 +1569,16 @@
       "version": "check-on-nexus",
       "requires": ["f4se"],
       "notes": "F4SE plugin adding 1150+ native Papyrus script functions for mod authors. Required by Amazing FollowerTweaks Plus. IMPORTANT: Multi-version mod - select the file specifically built for game version 1.10.163 (OG), not NG/AE variants"
+    },
+    {
+      "id": "random-encounter-framework",
+      "name": "Random Encounter Framework",
+      "category": "core",
+      "subcategory": "framework",
+      "source": "https://www.nexusmods.com/fallout4/mods/60074",
+      "version": "1.02",
+      "requires": [],
+      "notes": "Reorganizes the game's random encounter story manager nodes for safe modding compatibility. Requires Automatron, Far Harbor and Nuka-World DLCs. Required by Improved Institute, Improved Railroad, Improved Minutemen and Improved Brotherhood of Steel"
     }
   ]
 }
