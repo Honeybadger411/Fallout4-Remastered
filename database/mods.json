@@ -1539,6 +1539,26 @@
       "version": "check-on-nexus",
       "requires": ["f4se"],
       "notes": "Loads certain F4SE plugins before the game itself starts. Required by Buffout 4 on old-gen F4SE (0.6.23), which lacks the newer built-in preload method available in Next-Gen F4SE releases. Installs to the game's root folder (WinHTTP.dll, xSE PluginPreloader.xml), not the Data folder - requires Root Builder in MO2"
+    },
+    {
+      "id": "spell-perk-item-distributor",
+      "name": "Spell Perk Item Distributor (SPID)",
+      "category": "core",
+      "subcategory": "framework",
+      "source": "https://www.nexusmods.com/fallout4/mods/48365",
+      "version": "3.1.1",
+      "requires": ["f4se", "address-library", "baka-framework"],
+      "notes": "F4SE plugin allowing mod authors to distribute spells/perks/items/packages to NPCs via config files, without needing plugins. Used by 72+ other mods"
+    },
+    {
+      "id": "baka-framework",
+      "name": "Baka Framework",
+      "category": "core",
+      "subcategory": "framework",
+      "source": "https://www.nexusmods.com/fallout4/mods/43627",
+      "version": "check-on-nexus",
+      "requires": ["f4se"],
+      "notes": "Required dependency framework for Spell Perk Item Distributor"
     }
   ]
 }
