@@ -68,6 +68,20 @@ def main():
             print(f"  {mod_id} alternativeTo '{alt}', which does not exist")
     else:
         print("None found ✅")
+# Check for potential overlaps: same category + subcategory
+    from collections import defaultdict
+    groups = defaultdict(list)
+    for mod in mods:
+        key = (mod.get("category"), mod.get("subcategory"))
+        groups[key].append(mod.get("id"))
 
+    print("\n=== Mods sharing the same category + subcategory (review for overlap) ===")
+    found_group = False
+    for (category, subcategory), mod_ids in sorted(groups.items()):
+        if len(mod_ids) > 1:
+            found_group = True
+            print(f"  [{category} / {subcategory}] ({len(mod_ids)} mods): {mod_ids}")
+    if not found_group:
+        print("None found ✅")
 if __name__ == "__main__":
     main()
