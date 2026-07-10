@@ -17,7 +17,7 @@
       "subcategory": "stability",
       "source": "https://www.nexusmods.com/fallout4/mods/47359",
       "version": "1.28.6",
-      "requires": ["f4se", "address-library"],
+      "requires": ["f4se", "address-library", "xse-plugin-preloader"],
       "notes": "Crash-/Memory-/Engine-Fixes, Basis for Stability, Recommended for all users"
     },
     {
@@ -1469,6 +1469,16 @@
       "version": "check-on-nexus",
       "requires": ["mcm"],
       "notes": "Configure hotkeys entirely via MCM: create standard saves (including Survival mode), use items, wait anywhere, execute console commands or custom functions"
+    },
+    {
+      "id": "xse-plugin-preloader",
+      "name": "xSE PluginPreloader F4",
+      "category": "core",
+      "subcategory": "framework",
+      "source": "https://www.nexusmods.com/fallout4/mods/33946",
+      "version": "check-on-nexus",
+      "requires": ["f4se"],
+      "notes": "Loads certain F4SE plugins before the game itself starts. Required by Buffout 4 on old-gen F4SE (0.6.23), which lacks the newer built-in preload method available in Next-Gen F4SE releases. Installs to the game's root folder (WinHTTP.dll, xSE PluginPreloader.xml), not the Data folder - requires Root Builder in MO2"
     }
   ]
 }
