@@ -411,16 +411,6 @@
       "notes": "Speeds up terminal text display (choice of 2x-100x). Simple, low-risk ESP with no known conflicts"
     },
     {
-      "id": "simple-everyones-best-friend",
-      "name": "Simple Everyone's Best Friend",
-      "category": "quality-of-life",
-      "subcategory": "companions",
-      "source": "https://www.nexusmods.com/fallout4/mods/92314",
-      "version": "check-on-nexus",
-      "requires": [],
-      "notes": "Allows Dogmeat plus a standard companion simultaneously. Modern rewrite of the original mod with better compatibility, integrated UFO4P fixes, and compatibility with Survival Configuration Menu"
-    },
-    {
       "id": "workshop-framework",
       "name": "Workshop Framework",
       "category": "quest",
@@ -885,8 +875,6 @@
       "name": "Amazing FollowerTweaks Plus (AFT Plus)",
       "category": "companion",
       "subcategory": "framework",
-      "status": "alternative",
-      "alternativeTo": ["simple-everyones-best-friend"],
       "source": "https://www.nexusmods.com/fallout4/mods/59699",
       "version": "check-on-nexus",
       "requires": [],
