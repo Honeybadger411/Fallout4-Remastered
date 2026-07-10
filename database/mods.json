@@ -65,7 +65,7 @@
       "name": "Unofficial Fallout 4 Patch",
       "category": "bugfix",
       "subcategory": "vanilla-fixes",
-      "source": "https://www.nexusmods.com/fallout4/mods/4598",
+      "source": ["https://www.nexusmods.com/fallout4/mods/4598", "https://www.nexusmods.com/fallout4/mods/4598?tab=files&file_id=270951"],
       "version": "2.1.5",
       "requires": [],
       "notes": "Community-maintained collection of fixes for vanilla bugs missed by official patches. IMPORTANT: The current Nexus main file listing (2.2.1a) requires game version 1.11.221 and is NOT compatible with our 1.10.163 setup. Version 2.1.5 is the correct Old-Gen version, but has been archived by the author and is no longer in the normal file list. Obtain it via the direct archive link documented in the jotc-ufo4p-cfm-links entry"
@@ -85,7 +85,7 @@
       "name": "Community Fixes Merged",
       "category": "bugfix",
       "subcategory": "vanilla-fixes",
-      "source": "https://www.nexusmods.com/fallout4/mods/100847",
+      "source": ["https://www.nexusmods.com/fallout4/mods/100847","https://www.nexusmods.com/fallout4/mods/74945?tab=files&file_id=309389"],
       "version": "check-on-nexus",
       "requires": [],
       "notes": "Merged collection of individual community bugfix mods not covered by UFO4P. IMPORTANT: The original Nexus page (mod ID 58020) has been removed entirely by its author. Obtain via the direct archive link documented in the jotc-ufo4p-cfm-links entry (Nexus ID 100847) instead"
@@ -177,8 +177,18 @@
       "subcategory": "fallui",
       "source": "https://www.nexusmods.com/fallout4/mods/60580",
       "version": "2.1",
-      "requires": ["fallui-inventory"],
+      "requires": ["fallui-inventory", "fallui-icon-library"],
       "notes": "Official item sorting/tagging system for FallUI Inventory, HUD and Workbench"
+    },
+    {
+      "id": "fallui-icon-library",
+      "name": "FallUI - Icon Library",
+      "category": "ui",
+      "subcategory": "fallui",
+      "source": "https://www.nexusmods.com/fallout4/mods/60579",
+      "version": "1.0",
+      "requires": [],
+      "notes": "New icon library with customizable icons for use across FallUI mods, required by FIS - The NEW FallUI Item Sorter"
     },
     {
       "id": "better-console",
