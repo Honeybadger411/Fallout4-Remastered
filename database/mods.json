@@ -937,7 +937,7 @@
       "subcategory": "framework",
       "source": "https://www.nexusmods.com/fallout4/mods/59699",
       "version": "check-on-nexus",
-      "requires": [],
+      "requires": ["garden-of-eden-papyrus-extender"],
       "notes": "Modern, actively maintained multi-companion framework with SS2 support. Alternative to Simple Everyone's Best Friend for players wanting more than Dogmeat+1. Mutually exclusive, do not run both"
     },
     {
@@ -1559,6 +1559,16 @@
       "version": "check-on-nexus",
       "requires": ["f4se"],
       "notes": "Required dependency framework for Spell Perk Item Distributor"
+    },
+    {
+      "id": "garden-of-eden-papyrus-extender",
+      "name": "Garden of Eden Papyrus Script Extender",
+      "category": "core",
+      "subcategory": "framework",
+      "source": "https://www.nexusmods.com/fallout4/mods/74160",
+      "version": "check-on-nexus",
+      "requires": ["f4se"],
+      "notes": "F4SE plugin adding 1150+ native Papyrus script functions for mod authors. Required by Amazing FollowerTweaks Plus. IMPORTANT: Multi-version mod - select the file specifically built for game version 1.10.163 (OG), not NG/AE variants"
     }
   ]
 }
