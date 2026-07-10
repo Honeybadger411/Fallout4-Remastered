@@ -701,6 +701,16 @@
       "notes": "Replaces explosion sounds with crisper, more realistic versions including ear-ringing effect. Confirmed compatible with Reverb and Ambiance Overhaul"
     },
     {
+      "id": "robco-patcher",
+      "name": "RobCo Patcher",
+      "category": "core",
+      "subcategory": "framework",
+      "source": "https://www.nexusmods.com/fallout4/mods/69798",
+      "version": "4.4.6",
+      "requires": ["f4se", "address-library"],
+      "notes": "Runtime patching framework (F4SE/CommonLibF4-based) allowing mod authors to modify ammo, NPCs, races, weapons and more without plugins. Required by Better Locational Damage - RobCo Patch and 500+ other mods"
+    },
+    {
       "id": "arbitration",
       "name": "Arbitration - Combat AI - Stealth - Speed - Damage - Gameplay Overhaul and Tweaks",
       "category": "gameplay",
@@ -717,7 +727,7 @@
       "subcategory": "combat-ai",
       "source": "https://www.nexusmods.com/fallout4/mods/3815",
       "version": "check-on-nexus",
-      "requires": ["f4se"],
+      "requires": ["f4se", "robco-patcher"],
       "notes": "Scripted headshots, dismemberment, bleeding, stagger and backstab damage. Actively maintained with MCM support"
     },
     {
