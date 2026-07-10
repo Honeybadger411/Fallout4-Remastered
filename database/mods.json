@@ -411,6 +411,16 @@
       "notes": "Reduces ambient light/fog in unlit interior corners, complements ELFX rather than replacing it"
     },
     {
+      "id": "hunkered-down",
+      "name": "Hunkered Down - Commonwealth Overhaul (No Atom Cats Garage variant)",
+      "category": "location",
+      "subcategory": "town-overhaul",
+      "source": "https://www.nexusmods.com/fallout4/mods/49865",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Updates 30+ locations to look more lived-in and survivable (fewer open fire light sources, added decoration). IMPORTANT: Select the variant WITHOUT the Atom Cats Garage changes on the Files tab - avoids the only precombine break in this mod, better PRP compatibility. Optional separate file adds settlement location tweaks (Hangman's Alley, Oberland Station, etc.)"
+    },
+    {
       "id": "unlimited-fast-travel",
       "name": "Unlimited Fast Travel - F4SE",
       "category": "quality-of-life",
