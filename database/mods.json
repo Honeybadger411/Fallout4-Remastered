@@ -1491,6 +1491,16 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "Female face and body texture replacer"
+    },
+    {
+      "id": "configurable-hotkeys",
+      "name": "Configurable Hotkeys",
+      "category": "quality-of-life",
+      "subcategory": "convenience",
+      "source": "https://www.nexusmods.com/fallout4/mods/46419",
+      "version": "check-on-nexus",
+      "requires": ["mcm"],
+      "notes": "Configure hotkeys entirely via MCM: create standard saves (including Survival mode), use items, wait anywhere, execute console commands or custom functions"
     }
   ]
 }
