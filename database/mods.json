@@ -411,16 +411,6 @@
       "notes": "Removes settlement building placement restrictions (red highlighting), makes scrap-only objects movable. Confirmed compatible with game version 1.10.163"
     },
     {
-      "id": "unlimited-fast-travel",
-      "name": "Unlimited Fast Travel - F4SE",
-      "category": "quality-of-life",
-      "subcategory": "convenience",
-      "source": "https://www.nexusmods.com/fallout4/mods/26161",
-      "version": "check-on-nexus",
-      "requires": ["f4se"],
-      "notes": "Removes fast travel restrictions (interior, survival mode, overweight, combat, etc.)"
-    },
-    {
       "id": "faster-terminal-displays",
       "name": "Faster Terminal Displays",
       "category": "quality-of-life",
