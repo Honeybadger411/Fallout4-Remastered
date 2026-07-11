@@ -1471,6 +1471,206 @@
       "notes": "Adds building plans like artillery and small homes by Mikimikinyan"
     },
     {
+      "id": "ss2-superstructures",
+      "name": "SS2 Superstructures - A Sim Settlements 2 Addon Pack",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/47848",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Large pack: 53 plots plus 270 foundations. Confirmed compatible with 1.10.163"
+    },
+    {
+      "id": "ruined-homes-and-gardens",
+      "name": "Sim Settlements 2 - Ruined Homes and Gardens 2.0",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/48067",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "40+ residential/decorative plots by Ruinedworld"
+    },
+    {
+      "id": "wasteland-venturers",
+      "name": "Wasteland Venturers Sim Settlements 2 Addon Pack",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/48060",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Very large, well-established pack: 164 building plans by Tinuvia"
+    },
+    {
+      "id": "pras-random-addon-2",
+      "name": "Sim Settlements 2 - Pra's Random Addon 2",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/48042",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Large, actively updated mixed-category plot pack by Pra"
+    },
+    {
+      "id": "junk-town-2",
+      "name": "Sim Settlements 2 - Junk Town 2 Addon Pack",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/48271",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Junk-themed building plans by uituit"
+    },
+    {
+      "id": "ss2-scrappers",
+      "name": "Sim Settlements 2 Scrappers",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/48846",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "49 plots by ohnno"
+    },
+    {
+      "id": "ss2-support-structures",
+      "name": "SS2 Support Structures of the Wasteland (Add-on Pack)",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/67522",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Support/infrastructure-themed building plans by stragest"
+    },
+    {
+      "id": "ss2-apocalyptic-additions",
+      "name": "Sim Settlements 2 - Apocalyptic Additions Addon Pack",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/48659",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Post-apocalyptic themed plots by sirlach"
+    },
+    {
+      "id": "ss2-far-harbor-expansion",
+      "name": "Sim Settlements 2 - Far Harbor Expansion",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/61661",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Far Harbor themed plots and city plans by greenFoxel. Requires Far Harbor DLC"
+    },
+    {
+      "id": "ss2-sanctuary-to-concord",
+      "name": "Sim Settlements 2 - From Sanctuary to Concord - Building Plans Module",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/62210",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Early-game area building plans by greenFoxel"
+    },
+    {
+      "id": "ss2-nuka-world-expansion",
+      "name": "Sim Settlements 2 - Nuka World Expansion",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/68202",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Nuka-World themed plots by greenFoxel. Requires Nuka-World DLC"
+    },
+    {
+      "id": "ss2-rags-and-riches",
+      "name": "Sim Settlements 2 - Rags and Riches",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/58189",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Wealth-tier themed residential/commercial plots by greenFoxel (Foxel)"
+    },
+    {
+      "id": "simhomestead-2",
+      "name": "SimHomestead 2 - A SimSettlements 2 addon",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/50172",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Residential-focused building plan pack by Eldarth"
+    },
+    {
+      "id": "ss2-tiny-living",
+      "name": "Sim Settlements 2 - Tiny Living",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/49424",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Compact/small-footprint residential plots by Freddrick"
+    },
+    {
+      "id": "ss2-rebirth-of-the-commonwealth",
+      "name": "Sim Settlements 2 Addon Pack - Rebirth of the Commonwealth",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/89592",
+      "version": "2.1",
+      "requires": ["sim-settlements-2"],
+      "notes": "Ever-growing building plan pack by Pesky Fox (successor to 'New Suits You'). Recommends Sim Settlements 2 Extended (SS2 Chapter 3 optional file) to avoid purple textures"
+    },
+    {
+      "id": "ss2-addon-96315",
+      "name": "Sim Settlements 2 Addon Pack (unverified - check Nexus ID 96315)",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/96315",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Not individually verified due to time constraints - confirm name, description and dependencies on Nexus before downloading"
+    },
+    {
+      "id": "ss2-addon-79520",
+      "name": "Sim Settlements 2 Addon Pack (unverified - check Nexus ID 79520)",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/79520",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Not individually verified due to time constraints - confirm name, description and dependencies on Nexus before downloading"
+    },
+    {
+      "id": "ss2-addon-48700",
+      "name": "Sim Settlements 2 Addon Pack (unverified - check Nexus ID 48700)",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/48700",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Not individually verified due to time constraints - confirm name, description and dependencies on Nexus before downloading"
+    },
+    {
+      "id": "ss2-addon-82223",
+      "name": "Sim Settlements 2 Addon Pack (unverified - check Nexus ID 82223)",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/82223",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Not individually verified due to time constraints - confirm name, description and dependencies on Nexus before downloading"
+    },
+    {
+      "id": "ss2-addon-79526",
+      "name": "Sim Settlements 2 Addon Pack (unverified - check Nexus ID 79526)",
+      "category": "quest",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/79526",
+      "version": "check-on-nexus",
+      "requires": ["sim-settlements-2"],
+      "notes": "Not individually verified due to time constraints - confirm name, description and dependencies on Nexus before downloading"
+    },
+    {
       "id": "bastion-power-armor-overhaul",
       "name": "Bastion - A Power Armor Overhaul",
       "category": "gameplay",
