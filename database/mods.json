@@ -1959,6 +1959,16 @@
       "version": "check-on-nexus",
       "requires": ["the-machine-and-her", "extended-dialogue-interface"],
       "notes": "Adds prompt text to dialogue responses for XDI compatibility. Enable both XDI.esm and this patch before playing"
+    },
+    {
+      "id": "daytripper-4",
+      "name": "Daytripper 4",
+      "category": "core",
+      "subcategory": "stability",
+      "source": "https://www.nexusmods.com/fallout4/mods/91141",
+      "version": "1.4.9",
+      "requires": ["f4se", "address-library"],
+      "notes": "F4SE engine-fix plugin, originally for Fallout 4 VR but several patches also work on OG/NG/AE. ExtendedArchiveLimit patch removes the vanilla 256 BA2 archive hard limit (raises it to 65536), solving BA2 Limit Crashes (LooseFileAsyncStream) on very large modlists without needing to manually unpack archives with Cathedral Assets Optimizer. Most other included fixes are VR-specific and inert on flatscreen. Config via Data\\F4SE\\Daytripper.toml"
     }
   ]
 }
