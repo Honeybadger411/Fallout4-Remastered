@@ -837,7 +837,7 @@
       "subcategory": "interiors",
       "source": "https://www.nexusmods.com/fallout4/mods/67268",
       "version": "check-on-nexus",
-      "requires": [],
+      "requires": ["ceft-main-file"],
       "notes": "Opens several closed buildings in Lexington with balanced, vanilla-consistent loot. Chosen over Lexington Interiors due to that mod's excessive loot"
     },
     {
@@ -1879,6 +1879,26 @@
       "version": "1.02",
       "requires": [],
       "notes": "Reorganizes the game's random encounter story manager nodes for safe modding compatibility. Requires Automatron, Far Harbor and Nuka-World DLCs. Required by Improved Institute, Improved Railroad, Improved Minutemen and Improved Brotherhood of Steel"
+    },
+    {
+      "id": "fast-travel-from-quest-hubs",
+      "name": "Fast Travel From Quest Hubs",
+      "category": "quality-of-life",
+      "subcategory": "convenience",
+      "source": "https://www.nexusmods.com/fallout4/mods/60543",
+      "version": "1.04",
+      "requires": [],
+      "notes": "Adds fast travel markers for quest hub interiors (Cambridge PD, Prydwen, Acadia, The Nucleus), reducing loading screens. Required by a Vault4 patch file already in this list. Load before mods that edit DLC faction cells"
+    },
+    {
+      "id": "ceft-main-file",
+      "name": "Ceft's Main File",
+      "category": "location",
+      "subcategory": "interiors",
+      "source": "https://www.nexusmods.com/fallout4/mods/64753",
+      "version": "1.3",
+      "requires": [],
+      "notes": "Modder's resource: various meshes, textures and material swaps. Required by Open Lexington"
     }
   ]
 }
