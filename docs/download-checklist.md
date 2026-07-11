@@ -1,6 +1,6 @@
 # Fallout4-Remastered - Download Checklist
 
-Total mods to download: 147
+Total mods to download: 188
 
 Check off each mod once downloaded. Verify the version matches game 1.10.163 where marked `check-on-nexus`.
 
@@ -9,6 +9,7 @@ Check off each mod once downloaded. Verify the version matches game 1.10.163 whe
 
 - [ ] [Fallout 4 Script Extender (F4SE)](https://f4se.silverlock.org/) (`0.6.23`)
 - [ ] [Address Library for F4SE Plugins](https://www.nexusmods.com/fallout4/mods/47327) (`1.10.163.0`)
+- [ ] [xSE PluginPreloader F4](https://www.nexusmods.com/fallout4/mods/33946) ⚠️ *verify version for 1.10.163*
 - [ ] [Buffout 4](https://www.nexusmods.com/fallout4/mods/47359) (`1.28.6`)
 - [ ] [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798) (`0.8.13 OldGen`)
 - [ ] [Baka ScrapHeap](https://www.nexusmods.com/fallout4/mods/46340) (`1.3.0`)
@@ -16,8 +17,9 @@ Check off each mod once downloaded. Verify the version matches game 1.10.163 whe
 
 ## bugfix
 
-- [ ] [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598) (`2.1.5`)
-- [ ] [Community Fixes Merged](https://www.nexusmods.com/fallout4/mods/74945) (`4.6.2`)
+- [ ] [Unofficial Fallout 4 Patch](['https://www.nexusmods.com/fallout4/mods/4598', 'https://www.nexusmods.com/fallout4/mods/4598?tab=files&file_id=270951']) (`2.1.5`)
+- [ ] [JOTC - Unofficial Fallout 4 Patch (UFO4P) - Community Fixes Merged](https://www.nexusmods.com/fallout4/mods/100847) ⚠️ *verify version for 1.10.163*
+- [ ] [Community Fixes Merged](['https://www.nexusmods.com/fallout4/mods/100847', 'https://www.nexusmods.com/fallout4/mods/74945?tab=files&file_id=309389']) ⚠️ *verify version for 1.10.163*
 - [ ] [Previsibines Repair Pack (PRP)](https://www.nexusmods.com/fallout4/mods/46403) (`74.30`)
 
 ## gameplay
@@ -32,6 +34,7 @@ Check off each mod once downloaded. Verify the version matches game 1.10.163 whe
 - [ ] [FallUI - HUD](https://www.nexusmods.com/fallout4/mods/51813) (`1.7.1`)
 - [ ] [FallUI - Map](https://www.nexusmods.com/fallout4/mods/49920) (`2.1`)
 - [ ] [FallUI - Workbench](https://www.nexusmods.com/fallout4/mods/49300) (`1.4.1-r2`)
+- [ ] [FallUI - Icon Library](https://www.nexusmods.com/fallout4/mods/60579) (`1.0`)
 - [ ] [FIS - The NEW FallUI Item Sorter](https://www.nexusmods.com/fallout4/mods/60580) (`2.1`)
 - [ ] [Better Console - F4SE](https://www.nexusmods.com/fallout4/mods/26582) (`1.6.2`)
 
@@ -39,11 +42,13 @@ Check off each mod once downloaded. Verify the version matches game 1.10.163 whe
 
 - [ ] [ENBSeries (Fallout 4 binary)](http://enbdev.com/download_mod_fallout4.htm) (`check-on-enbdev,0.496`)
 - [ ] [NAC X - Natural and Atmospheric Commonwealth](https://www.nexusmods.com/fallout4/mods/46722) (`1.0.0`)
+- [ ] [Visible Galaxy 4k and Framework](https://www.nexusmods.com/fallout4/mods/19127) (`1.0`)
 - [ ] [Fallout 4 HD Overhaul](https://www.nexusmods.com/fallout4/mods/52423) ⚠️ *verify version for 1.10.163*
 - [ ] [SavrenX HD Vanilla Landscape](https://www.nexusmods.com/fallout4/mods/40551) ⚠️ *verify version for 1.10.163*
 - [ ] [SavrenX HD 1K Buildings and Interior](https://www.nexusmods.com/fallout4/mods/40534) ⚠️ *verify version for 1.10.163*
 - [ ] [SavrenX Landscape Interior Building DLC](https://www.nexusmods.com/fallout4/mods/40592) ⚠️ *verify version for 1.10.163*
 - [ ] [SavrenX HD Settlement and Clutters](https://www.nexusmods.com/fallout4/mods/40485) ⚠️ *verify version for 1.10.163*
+- [ ] [SavrenX HD Junk and Props DLC](https://www.nexusmods.com/fallout4/mods/40423) (`1.00`)
 - [ ] [SavrenX HD Vanilla Armor](https://www.nexusmods.com/fallout4/mods/40218) ⚠️ *verify version for 1.10.163*
 - [ ] [SavrenX HD Vanilla Clothes](https://www.nexusmods.com/fallout4/mods/40203) ⚠️ *verify version for 1.10.163*
 - [ ] [SavrenX HD DLC Armor and Clothes](https://www.nexusmods.com/fallout4/mods/40159) ⚠️ *verify version for 1.10.163*
@@ -56,6 +61,10 @@ Check off each mod once downloaded. Verify the version matches game 1.10.163 whe
 - [ ] [Enhanced Lights and FX (ELFX)](https://www.nexusmods.com/fallout4/mods/13596) ⚠️ *verify version for 1.10.163*
 - [ ] [ELFX - PreVis PreCombine Patch](https://www.nexusmods.com/fallout4/mods/64990) ⚠️ *verify version for 1.10.163*
 - [ ] [Interiors Enhanced - Darker Ambient Light and Fog](https://www.nexusmods.com/fallout4/mods/8768) ⚠️ *verify version for 1.10.163*
+
+## location
+
+- [ ] [Hunkered Down - Commonwealth Overhaul (No Atom Cats Garage variant)](https://www.nexusmods.com/fallout4/mods/49865) ⚠️ *verify version for 1.10.163*
 
 ## quality-of-life
 
@@ -97,6 +106,10 @@ Check off each mod once downloaded. Verify the version matches game 1.10.163 whe
 - [ ] [Reverb and Ambiance Overhaul](https://www.nexusmods.com/fallout4/mods/10189) ⚠️ *verify version for 1.10.163*
 - [ ] [Commonwealth Warfare - Explosions](https://www.nexusmods.com/fallout4/mods/16609) ⚠️ *verify version for 1.10.163*
 
+## core
+
+- [ ] [RobCo Patcher](https://www.nexusmods.com/fallout4/mods/69798) (`4.4.6`)
+
 ## gameplay
 
 - [ ] [Arbitration - Combat AI - Stealth - Speed - Damage - Gameplay Overhaul and Tweaks](https://www.nexusmods.com/fallout4/mods/2037) ⚠️ *verify version for 1.10.163*
@@ -136,7 +149,18 @@ Check off each mod once downloaded. Verify the version matches game 1.10.163 whe
 
 - [ ] [Heather Casdin - A Unique Companion Experience](https://www.nexusmods.com/fallout4/mods/23273) ⚠️ *verify version for 1.10.163*
 - [ ] [Ellen - the cartographer](https://www.nexusmods.com/fallout4/mods/15962) ⚠️ *verify version for 1.10.163*
+
+## core
+
+- [ ] [Garden of Eden Papyrus Script Extender](https://www.nexusmods.com/fallout4/mods/74160) ⚠️ *verify version for 1.10.163*
+
+## companion
+
 - [ ] [Amazing FollowerTweaks Plus (AFT Plus)](https://www.nexusmods.com/fallout4/mods/59699) ⚠️ *verify version for 1.10.163*
+
+## core
+
+- [ ] [Random Encounter Framework](https://www.nexusmods.com/fallout4/mods/60074) (`1.02`)
 
 ## npc-factions
 
@@ -194,7 +218,37 @@ Check off each mod once downloaded. Verify the version matches game 1.10.163 whe
 - [ ] [Favelabulous](https://www.nexusmods.com/fallout4/mods/50432) ⚠️ *verify version for 1.10.163*
 - [ ] [GavMan's Buildings - SS2 Add-on](https://www.nexusmods.com/fallout4/mods/79539) ⚠️ *verify version for 1.10.163*
 - [ ] [GavMan's Church SS2 Plotapalooza AddOn](https://www.nexusmods.com/fallout4/mods/88573) ⚠️ *verify version for 1.10.163*
+- [ ] [GavMan's Milky SS2 Plotapalooza 3 AddOn](https://www.nexusmods.com/fallout4/mods/91918) (`0.2`)
+- [ ] [Have a Nuka Sim Settlements 2 plot](https://www.nexusmods.com/fallout4/mods/76776) (`1.1`)
+- [ ] [Jampads 2 - a Sim Settlements 2 Add-on](https://www.nexusmods.com/fallout4/mods/48618) (`3.5.0`)
+- [ ] [Mystic Rogues Den SS2 Add-On Pack](https://www.nexusmods.com/fallout4/mods/93083) (`3.5.2`)
+- [ ] [SS2 - SGO Wasteland Expansion](https://www.nexusmods.com/fallout4/mods/82661) (`4.1`)
+- [ ] [Roving Robo Repairs - SS2 Plotapalooza 4 Entry](https://www.nexusmods.com/fallout4/mods/96249) (`1.4`)
+- [ ] [SS2 - Robo-Claw Bots - Plotapalooza 4 Entry](https://www.nexusmods.com/fallout4/mods/96306) (`1.0`)
+- [ ] [SS2 - Sales From Below - Pra's Plotapalooza 4 Entry](https://www.nexusmods.com/fallout4/mods/96309) (`1.0`)
+- [ ] [SS2 Addon - Shazbot's Cots](https://www.nexusmods.com/fallout4/mods/73794) (`0.0.24`)
+- [ ] [SS2 Settlers at Play](https://www.nexusmods.com/fallout4/mods/60443) (`6`)
 - [ ] [Sim Settlements 2 - So I Made Plans Addon Pack](https://www.nexusmods.com/fallout4/mods/50552) ⚠️ *verify version for 1.10.163*
+- [ ] [SS2 Superstructures - A Sim Settlements 2 Addon Pack](https://www.nexusmods.com/fallout4/mods/47848) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 - Ruined Homes and Gardens 2.0](https://www.nexusmods.com/fallout4/mods/48067) ⚠️ *verify version for 1.10.163*
+- [ ] [Wasteland Venturers Sim Settlements 2 Addon Pack](https://www.nexusmods.com/fallout4/mods/48060) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 - Pra's Random Addon 2](https://www.nexusmods.com/fallout4/mods/48042) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 - Junk Town 2 Addon Pack](https://www.nexusmods.com/fallout4/mods/48271) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 Scrappers](https://www.nexusmods.com/fallout4/mods/48846) ⚠️ *verify version for 1.10.163*
+- [ ] [SS2 Support Structures of the Wasteland (Add-on Pack)](https://www.nexusmods.com/fallout4/mods/67522) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 - Apocalyptic Additions Addon Pack](https://www.nexusmods.com/fallout4/mods/48659) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 - Far Harbor Expansion](https://www.nexusmods.com/fallout4/mods/61661) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 - From Sanctuary to Concord - Building Plans Module](https://www.nexusmods.com/fallout4/mods/62210) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 - Nuka World Expansion](https://www.nexusmods.com/fallout4/mods/68202) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 - Rags and Riches](https://www.nexusmods.com/fallout4/mods/58189) ⚠️ *verify version for 1.10.163*
+- [ ] [SimHomestead 2 - A SimSettlements 2 addon](https://www.nexusmods.com/fallout4/mods/50172) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 - Tiny Living](https://www.nexusmods.com/fallout4/mods/49424) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 Addon Pack - Rebirth of the Commonwealth](https://www.nexusmods.com/fallout4/mods/89592) (`2.1`)
+- [ ] [Sim Settlements 2 Addon Pack (unverified - check Nexus ID 96315)](https://www.nexusmods.com/fallout4/mods/96315) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 Addon Pack (unverified - check Nexus ID 79520)](https://www.nexusmods.com/fallout4/mods/79520) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 Addon Pack (unverified - check Nexus ID 48700)](https://www.nexusmods.com/fallout4/mods/48700) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 Addon Pack (unverified - check Nexus ID 82223)](https://www.nexusmods.com/fallout4/mods/82223) ⚠️ *verify version for 1.10.163*
+- [ ] [Sim Settlements 2 Addon Pack (unverified - check Nexus ID 79526)](https://www.nexusmods.com/fallout4/mods/79526) ⚠️ *verify version for 1.10.163*
 
 ## gameplay
 
@@ -241,3 +295,8 @@ Check off each mod once downloaded. Verify the version matches game 1.10.163 whe
 ## quality-of-life
 
 - [ ] [Configurable Hotkeys](https://www.nexusmods.com/fallout4/mods/46419) ⚠️ *verify version for 1.10.163*
+
+## core
+
+- [ ] [Baka Framework](https://www.nexusmods.com/fallout4/mods/43627) ⚠️ *verify version for 1.10.163*
+- [ ] [Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/fallout4/mods/48365) (`3.1.1`)
