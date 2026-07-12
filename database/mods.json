@@ -2075,6 +2075,16 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "One-click holotape settlement clearing. Deliberately does NOT require F4SE (author wanted Xbox compatibility), avoiding the F4SE-detection issue seen with MS Raze my Settlement - F4SE. Does not return exact scrapped materials; instead offers 'Add Basic Scrap' and 'Add Shipments' options for generic starting resources. Alternative/replacement for ms-raze-my-settlement"
+    },
+    {
+      "id": "workshop-plus",
+      "name": "Workshop Plus",
+      "category": "quality-of-life",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/35005",
+      "version": "check-on-nexus",
+      "requires": ["workshop-framework"],
+      "notes": "Overhauls workshop mode into a full building tool: flight, undo/redo, layers, cloning tools, free build mode, tracking system for settlers/items. MCM is a soft requirement (needed for the hotkey system) but not strictly required"
     }
   ]
 }
