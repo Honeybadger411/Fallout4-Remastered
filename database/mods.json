@@ -2037,7 +2037,7 @@
       "subcategory": "settlement-building",
       "source": "https://www.nexusmods.com/fallout4/mods/80428",
       "version": "check-on-nexus",
-      "requires": ["f4se"],
+      "requires": ["f4se","sup-f4se"],
       "notes": "One-click holotape settlement clearing, returns scrapped components to the workbench like manual scrapping. MCM-configurable with toggleable categories. Dedicated Sim Settlements 2 compatibility patch available on the mod page - prevents SS2 plot-spawned items from being scrapped"
     },
     {
@@ -2049,6 +2049,16 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "Adds a scrappable trash can next to every workbench that instantly removes all garbage/debris/dead grass in one click, without touching houses or large structures. Lighter-weight alternative/complement to MS Raze my Settlement"
+    },
+    {
+      "id": "sup-f4se",
+      "name": "SUP F4SE",
+      "category": "core",
+      "subcategory": "framework",
+      "source": "https://www.nexusmods.com/fallout4/mods/55419",
+      "version": "11.70",
+      "requires": ["f4se"],
+      "notes": "F4SE plugin adding engine fixes (Scrap Crash Fix, Wireless Power Fix, Terminal Link Fix) and modder functions/events. Required by MS Raze my Settlement"
     }
   ]
 }
