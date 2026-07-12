@@ -1969,6 +1969,26 @@
       "version": "1.4.9",
       "requires": ["f4se", "address-library"],
       "notes": "F4SE engine-fix plugin, originally for Fallout 4 VR but several patches also work on OG/NG/AE. ExtendedArchiveLimit patch removes the vanilla 256 BA2 archive hard limit (raises it to 65536), solving BA2 Limit Crashes (LooseFileAsyncStream) on very large modlists without needing to manually unpack archives with Cathedral Assets Optimizer. Most other included fixes are VR-specific and inert on flatscreen. Config via Data\\F4SE\\Daytripper.toml"
+    },
+    {
+      "id": "expressive-expressions",
+      "name": "Expressive Expressions",
+      "category": "animation",
+      "subcategory": "facial",
+      "source": "https://www.nexusmods.com/fallout4/mods/65707",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Enhancement overhaul of facial expression morphs, based on and close to vanilla rather than a ground-up replacement. Optional compatibility patches for HiPoly Faces REDUX and Realistic Facial Proportions available. Consider the optional Teeth Files if you want them."
+    },
+    {
+      "id": "facial-expression-eyetracking-fixes",
+      "name": "Facial Expression and Eyetracking Engine Fixes - F4SE",
+      "category": "animation",
+      "subcategory": "facial",
+      "source": "https://www.nexusmods.com/fallout4/mods/89732",
+      "version": "3.1",
+      "requires": ["f4se"],
+      "notes": "Pure engine bugfix, does not affect FaceGen/appearance. Fixes eyetracking staying inactive after load/cell transitions, wrong NPC look direction after Power Armor use, and NPCs losing facial expressions in crowded areas (>30 nearby actors). Configurable via Data\\F4SE\\Plugins\\FacialExpressionAndEyeTrackingEngineFixes.ini"
     }
   ]
 }
