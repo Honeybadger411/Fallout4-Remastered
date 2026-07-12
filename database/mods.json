@@ -1989,6 +1989,66 @@
       "version": "3.1",
       "requires": ["f4se"],
       "notes": "Pure engine bugfix, does not affect FaceGen/appearance. Fixes eyetracking staying inactive after load/cell transitions, wrong NPC look direction after Power Armor use, and NPCs losing facial expressions in crowded areas (>30 nearby actors). Configurable via Data\\F4SE\\Plugins\\FacialExpressionAndEyeTrackingEngineFixes.ini"
+    },
+    {
+      "id": "disable-companion-collision",
+      "name": "Disable Companion Collision",
+      "category": "quality-of-life",
+      "subcategory": "convenience",
+      "source": "https://www.nexusmods.com/fallout4/mods/76454",
+      "version": "check-on-nexus",
+      "requires": ["f4se", "address-library", "mcm"],
+      "notes": "Disables collision between player and companions. Built specifically for game version 1.10.163/F4SE 0.6.23. MCM-configurable. Installing/removing does not affect the save"
+    },
+    {
+      "id": "ultimate-scrap-recipes",
+      "name": "Ultimate Scrap Recipes",
+      "category": "quality-of-life",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/66811",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Precombine-friendly alternative to Scrap Everything. Author explicitly designed it to not break precombines. Optional precombine-disable patches exist but are not recommended for use with a heavily modded precombine-dependent setup like ours"
+    },
+    {
+      "id": "true-grass",
+      "name": "True Grass",
+      "category": "graphics",
+      "subcategory": "vegetation",
+      "source": "https://www.nexusmods.com/fallout4/mods/23469",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Lore-friendly grass, plant and flora overhaul. Explicitly recommended by the author to be used alongside Natural & Atmospheric Commonwealth (NAC X), which we already have. Includes a performance ini for foliage density tuning. Not compatible with other grass-altering mods"
+    },
+    {
+      "id": "mcm-settings-manager",
+      "name": "MCM Settings Manager",
+      "category": "ui",
+      "subcategory": "framework",
+      "source": "https://www.nexusmods.com/fallout4/mods/56195",
+      "version": "check-on-nexus",
+      "requires": ["mcm"],
+      "notes": "Save/load/export/import all MCM settings at once across up to 10 slots. No plugin, no Papyrus scripts - absolutely safe to install or remove mid-game at any time"
+    },
+    {
+      "id": "ms-raze-my-settlement",
+      "name": "MS Raze my Settlement - F4SE",
+      "category": "quality-of-life",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/80428",
+      "version": "check-on-nexus",
+      "requires": ["f4se"],
+      "notes": "One-click holotape settlement clearing, returns scrapped components to the workbench like manual scrapping. MCM-configurable with toggleable categories. Dedicated Sim Settlements 2 compatibility patch available on the mod page - prevents SS2 plot-spawned items from being scrapped"
+    },
+    {
+      "id": "this-is-trash",
+      "name": "This is Trash - A Scrapping Alternative",
+      "category": "quality-of-life",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/42552",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Adds a scrappable trash can next to every workbench that instantly removes all garbage/debris/dead grass in one click, without touching houses or large structures. Lighter-weight alternative/complement to MS Raze my Settlement"
     }
   ]
 }
