@@ -2007,6 +2007,8 @@
       "subcategory": "settlement-building",
       "source": "https://www.nexusmods.com/fallout4/mods/66811",
       "version": "check-on-nexus",
+      "status": "alternative",
+      "alternativeTo": ["raze-my-settlement"],
       "requires": [],
       "notes": "Precombine-friendly alternative to Scrap Everything. Author explicitly designed it to not break precombines. Optional precombine-disable patches exist but are not recommended for use with a heavily modded precombine-dependent setup like ours"
     },
@@ -2037,8 +2039,10 @@
       "subcategory": "settlement-building",
       "source": "https://www.nexusmods.com/fallout4/mods/80428",
       "version": "check-on-nexus",
-      "requires": ["f4se","sup-f4se"],
-      "notes": "One-click holotape settlement clearing, returns scrapped components to the workbench like manual scrapping. MCM-configurable with toggleable categories. Dedicated Sim Settlements 2 compatibility patch available on the mod page - prevents SS2 plot-spawned items from being scrapped"
+      "status": "alternative",
+      "alternativeTo": ["raze-my-settlement"],
+      "requires": ["f4se", "sup-f4se"],
+      "notes": "One-click holotape settlement clearing, returns scrapped components to the workbench like manual scrapping. MCM-configurable with toggleable categories. Dedicated Sim Settlements 2 compatibility patch available. KNOWN ISSUE: F4SE detection fails on this setup despite F4SE/SUP F4SE being correctly installed and functional (confirmed via console log) - function does not work. Tried -forcesteamloader argument and direct Fallout4.exe launch, neither resolved it (the latter also broke Buffout4 timing). Root cause not identified. Kept as alternative in case a future mod update fixes this"
     },
     {
       "id": "this-is-trash",
@@ -2047,6 +2051,8 @@
       "subcategory": "settlement-building",
       "source": "https://www.nexusmods.com/fallout4/mods/42552",
       "version": "check-on-nexus",
+      "status": "alternative",
+      "alternativeTo": ["raze-my-settlement"],
       "requires": [],
       "notes": "Adds a scrappable trash can next to every workbench that instantly removes all garbage/debris/dead grass in one click, without touching houses or large structures. Lighter-weight alternative/complement to MS Raze my Settlement"
     },
@@ -2059,6 +2065,16 @@
       "version": "11.70",
       "requires": ["f4se"],
       "notes": "F4SE plugin adding engine fixes (Scrap Crash Fix, Wireless Power Fix, Terminal Link Fix) and modder functions/events. Required by MS Raze my Settlement"
+    },
+    {
+      "id": "raze-my-settlement",
+      "name": "Raze My Settlement",
+      "category": "quality-of-life",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/39948",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "One-click holotape settlement clearing. Deliberately does NOT require F4SE (author wanted Xbox compatibility), avoiding the F4SE-detection issue seen with MS Raze my Settlement - F4SE. Does not return exact scrapped materials; instead offers 'Add Basic Scrap' and 'Add Shipments' options for generic starting resources. Alternative/replacement for ms-raze-my-settlement"
     }
   ]
 }
