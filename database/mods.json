@@ -2085,6 +2085,16 @@
       "version": "check-on-nexus",
       "requires": ["workshop-framework"],
       "notes": "Overhauls workshop mode into a full building tool: flight, undo/redo, layers, cloning tools, free build mode, tracking system for settlers/items. MCM is a soft requirement (needed for the hotkey system) but not strictly required"
+    },
+    {
+      "id": "fo4lodgen-resources",
+      "name": "FO4LODGen Resources",
+      "category": "graphics",
+      "subcategory": "performance",
+      "source": "https://www.nexusmods.com/fallout4/mods/80276",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "Required vanilla data restoration for xLODGen/FO4LODGen terrain LOD generation. Required before running xLODGen"
     }
   ]
 }
