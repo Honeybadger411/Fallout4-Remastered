@@ -2095,6 +2095,16 @@
       "version": "check-on-nexus",
       "requires": [],
       "notes": "Required vanilla data restoration for xLODGen/FO4LODGen terrain LOD generation. Required before running xLODGen"
+    },
+    {
+      "id": "clean-my-settlement",
+      "name": "Clean My Settlement",
+      "category": "quality-of-life",
+      "subcategory": "settlement-building",
+      "source": "https://www.nexusmods.com/fallout4/mods/45544",
+      "version": "check-on-nexus",
+      "requires": [],
+      "notes": "One-click holotape scrapping for bramble/vines/piles of leaves in settlements. Does not break precombines. Explicitly designed for Old-Gen (pre-Next-Gen) games, matching our 1.10.163 setup - author warns it breaks Next-Gen games. Fertilizer is given for scrapped leaf piles"
     }
   ]
 }
